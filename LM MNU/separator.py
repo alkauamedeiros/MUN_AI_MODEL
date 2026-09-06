@@ -1,5 +1,5 @@
 import sqlite3
-import ollama
+from ollama_config import ollama_client
 
 class DataMatrix:
     def __init__(
@@ -81,7 +81,7 @@ class DataMatrix:
             correct_instructions = op.read()
         
         #Faz a call para o agente de IA
-        stream1 = ollama.chat(
+        stream1 = ollama_client.chat(
             model = 'qwen3.5:9b',
             messages=[
                 {
@@ -91,19 +91,19 @@ class DataMatrix:
 
                 {
                     'role' : 'user',
-                    'content' : f"Trecho a ser classificado: '{text}'\nRetorne no formato adequado.",
+                    'content' : f"Trecho a ser classificado: '{text}'\nRetorne no formato adequado. Lembre-se de apenas adicionar '!START' se houver a palavra-chave 'agente artificial' no texto.",
                 },
             ],
             think = False,
             stream = False,
-            options={'temperature' : 0.2,}
+            options={'temperature' : 0.1,}
         )
 
         #Decisão do modelo
         decision = stream1['message']['content']
 
         #Correção de erros de ortografia pelo mesmo modelo rodado novamente
-        stream2 = ollama.chat(
+        stream2 = ollama_client.chat(
             model = 'qwen3.5:9b',
             messages=[
                 {
@@ -122,14 +122,14 @@ class DataMatrix:
         )
 
         correct_decision = stream2['message']['content']
-        #print(correct_decision)
+        print(correct_decision)
 
         #Começa as inserções:
         insertions = correct_decision.split('\n')
         try:
             for line in insertions:
                 #Se for um comando para a IA
-                if(line[0] == '!'):
+                if('!' in line):
                     to_ask = line.split(' ')
                     print("A IA IRÁ FAZER UMA PERGUNTA")
                     print(f"LINHA: {line}")
@@ -142,10 +142,14 @@ class DataMatrix:
                     autor = str(divisor[0])
 
                     if(autor != '' and autor.upper() != 'OUTROS'):
+                        #INSERE EM SI PRÓPRIO
+                        self.insert(autor, autor, text)
+                        print(f"({autor},{autor})")
+
                         #Subdivide em cada um sobre o qual foi falado
                         sub_divisor = divisor[1].split(' ')
                         for receiver in sub_divisor:
-                            if(receiver != '' and receiver.upper() != 'OUTROS'):
+                            if(receiver != '' and receiver.upper() != 'OUTROS' and receiver.upper() != autor.upper()):
                                 #Insere na matriz de forma simétrica.
                                 self.insert(autor, receiver, text)
                                 self.insert(receiver, autor, text)

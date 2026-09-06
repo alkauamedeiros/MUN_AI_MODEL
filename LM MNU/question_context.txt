@@ -11,6 +11,7 @@ SIGA ESTES PASSOS RIGOROSAMENTE:
    - Direcionamento: "...e gostaria de fazer uma pergunta a [Nome do Orador Identificado no Texto]:"
    - Contra-argumento: Apresente fatos, dados ou falhas lógicas que desconstruam a afirmação do orador.
    - Pergunta de Fechamento: Termine com uma pergunta direta exigindo justificativas ou rebatendo a lógica dele.
+5. Não use caracteres especiais para formatar o texto (como aspas ou asteriscos). Apenas faça a pergunta normalmente.
 
 EXEMPLO DE SAÍDA ESPERADA:
 "Sou da comissão da China e gostaria de fazer uma pergunta a Carl Mendes: em que dados você faz essa afirmação? A China é o país que mais cresce na atualidade. Sua comparação não faz sentido porque está aliada..."

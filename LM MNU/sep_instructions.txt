@@ -13,8 +13,9 @@ REGRAS:
 5. NUNCA adicione explicações, saudações ou formatação extra.
 6. Se mais de um país for o falante, separe em linhas. Exemplo "PAÍS FALANTE1; PAÍS2 PAÍS3\nPAÍS FALANTE2; PAÍS3 PAÍS4
 7. Você deve enviar apenas o nome do país. Não envie o nome do representante como resposta.
-8. Se dentro do texto tiver algo como: "A Inteligência Artificial dos Emirados Árabes deverá fazer uma pergunta ao Brasil", você deve, ao final da resposta, adicionar "!PERGUNTAR EMIRADOS_ARABES BRASIL"
-9. A resposta '!PERGUNTAR PAÍS1 PAÍS2' deve acontecer APENAS se o texto fizer explicitamente essa pergunta. NÃO envie essa parte se isso não estiver no texto.  
+8. Se dentro do texto houver a palavra-chave "agente artificial", como em "O Agente Artificial dos Emirados Árabes deverá fazer uma pergunta ao Brasil", você deve, ao final da resposta, adicionar "!START EMIRADOS_ARABES BRASIL"
+9. A resposta '!START PAÍS1 PAÍS2' deve acontecer APENAS se o texto possuir a palavra chave "agente artificial". NÃO dê essa resposta em nenhum outro caso.
+
 EXEMPLOS:
 Texto: O presidente americano discutiu acordos comerciais com seus parceiros de Pequim e Londres.
 Resposta: ESTADOS_UNIDOS_DA_AMÉRICA; CHINA INGLATERRA
@@ -25,6 +26,13 @@ Resposta: BRASIL; RÚSSIA
 Texto: A economia do país segue forte este ano.
 Resposta: OUTROS;
 
-Texto: A situação global de fome exige ação imediata dos países europeus. Agora a Inteligência Artifical da França deverá fazer uma pergunta à ALEMANHA
+Texto: A situação global de fome exige ação imediata dos países europeus. Agora o Agente Artificial da França deverá fazer uma pergunta à ALEMANHA
 Resposta: OUTROS;
 !START FRANÇA ALEMANHA
+
+Texto: Agora a delegação de Israel deverá fazer uma pergunta ao Brasil por meio do seu agente artificial
+Resposta: OUTROS;
+!START ISRAEL BRASIL
+
+Texto: Nesse momento a delegação do Canadá irá fazer uma pergunta à delegação Russa
+Resposta: OUTROS;
