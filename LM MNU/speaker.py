@@ -1,9 +1,12 @@
 import numpy as np
 import soundfile as sf
 import sounddevice as sd
+import subprocess
+import threading
+import sys
+import select
 from kokoro import KPipeline
-#from f5_tts.api import F5TTS
-#from TTS.api import TTS
+
 
 def smart_split(text, max_length=250):
     """
@@ -67,6 +70,32 @@ def generate_audio(text, name):
         full_audio = np.concatenate(audio_chunks)
         sf.write(name, full_audio, 24000)
         print(f"Áudio '{name}' produzido com sucesso!")
+
+def play_audio_with_interrupt(file_path):
+    """
+    Reproduz o áudio e escuta o teclado no Linux.
+    Pressionar ENTER cancela o áudio imediatamente e devolve o controle ao script.
+    """
+    process = subprocess.Popen(["aplay", file_path], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    print("📢 Reproduzindo fala da IA... [Pressione ENTER para cortar]")
+
+    stop_event = threading.Event()
+
+    def listen_for_interrupt():
+        while process.poll() is None and not stop_event.is_set():
+            # Monitora se alguma tecla foi pressionada no terminal
+            if select.select([sys.stdin], [], [], 0.1)[0]:
+                sys.stdin.readline()  # Limpa o buffer do teclado
+                if process.poll() is None:
+                    print("\n🛑 Fala da IA interrompida manualmente!")
+                    process.terminate()
+                break
+
+    interrupt_thread = threading.Thread(target=listen_for_interrupt, daemon=True)
+    interrupt_thread.start()
+
+    process.wait()
+    stop_event.set()
 
 
 if(__name__ == "__main__"):

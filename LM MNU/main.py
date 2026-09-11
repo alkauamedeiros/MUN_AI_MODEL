@@ -57,8 +57,10 @@ if(__name__ == "__main__"):
                 # ==========================================
                 print("🔒 Microfone pausado para a fala da IA...")
                 tr_text.pause_listening()
-                
-                # spk.generate_audio(ai_question, f"fala_ia{cur_audio}.wav")
+
+                #TOCA O ÁUDIO
+                spk.generate_audio(ai_question, f"fala_ia_teste{cur_audio}.wav")
+                spk.play_audio_with_interrupt(f"fala_ia_teste{cur_audio}.wav")
                 
                 tr_text.resume_listening()
                 print("🔓 Microfone liberado.\n")

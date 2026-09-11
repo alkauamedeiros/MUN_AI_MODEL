@@ -91,7 +91,7 @@ class DataMatrix:
 
                 {
                     'role' : 'user',
-                    'content' : f"Trecho a ser classificado: '{text}'\nRetorne no formato adequado. Lembre-se de apenas adicionar '!START' se houver a palavra-chave 'agente artificial' no texto.",
+                    'content' : f"Trecho a ser classificado: '{text}'\nRetorne no formato adequado. Lembre-se de apenas adicionar '!START' se houver a palavra-chave 'agente artificial' no texto. Palavras como 'inteligência artificial' NUNCA devem ativar o !START se não houver a palavra-chave 'agente artificial'",
                 },
             ],
             think = False,
@@ -101,6 +101,8 @@ class DataMatrix:
 
         #Decisão do modelo
         decision = stream1['message']['content']
+
+        #print(decision)
 
         #Correção de erros de ortografia pelo mesmo modelo rodado novamente
         stream2 = ollama_client.chat(
@@ -113,7 +115,7 @@ class DataMatrix:
 
                 {
                     'role' : 'user',
-                    'content' : f"Trecho a ser corrigido: '{decision}'\nRetorne no formato adequado.",
+                    'content' : f"Trecho a ser corrigido: '{decision}'\nRetorne no formato adequado. Corrija erros de ortografia dos nomes dos países.",
                 },
             ],
             think = False,
