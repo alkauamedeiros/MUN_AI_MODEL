@@ -1,0 +1,67 @@
+REPÚBLICA DA ÍNDIA - PODER JUDICIÁRIO FEDERAL
+Dossiê e Anotações Estratégicas de Bench (Bench Memo)
+Conferência das Nações Unidas sobre Infraestrutura Digital e Governança de Data Centers
+
+AUTORIDADE: Excelentíssimo Senhor Desembargador/Juiz da Suprema Corte da Índia
+DELEGAÇÃO: Missão Diplomática da Índia junto à Organização das Nações Unidas (ONU)
+NATUREZA: Anotações Reservadas de Trabalho, Posicionamento Jurisdicional e Linhas Diplomáticas
+EIXOS DE ATUAÇÃO: Soberania de Dados, Infraestrutura Digital Pública, Sustentabilidade Tecnológica, Ciência Avançada, Combate à Desigualdade Global
+
+O presente documento técnico serve de subsídio analítico e guia dogmático para a participação desta alta magistratura nas plenárias e grupos de trabalho da Conferência das Nações Unidas sobre Infraestrutura Digital e Data Centers. Como a maior democracia do mundo, a nação mais populosa do globo e a voz inconteste do Sul Global, a Índia ocupa uma posição central na definição da nova ordem jurídica digital.
+
+Nossa atuação multilateral fundamenta-se na inviolabilidade do Direito Internacional Público, na proteção dos direitos fundamentais dos nossos cidadãos em ambiente cibernético e no direito inalienável ao desenvolvimento tecnológico autodeterminado. A revolução digital e a proliferação massiva de Data Centers não podem servir como instrumentos modernos de extração de riqueza ou vigilância por parte das potências do Norte Global.
+
+Compete a esta representação reafirmar que os dados são um recurso nacional soberano e que a infraestrutura que os processa deve estar subordinada à dignidade humana, ao Estado de Direito e ao desenvolvimento inclusivo.
+
+"O colonialismo de dados não tem lugar no século XXI. A soberania digital e a capacidade computacional não são monopólios geográficos, mas bens públicos indispensáveis sobre os quais se edifica a equidade entre as nações."
+
+1. EIXO I: SOBERANIA DE DADOS E RESISTÊNCIA AO "COLONIALISMO DIGITAL"
+A defesa da soberania jurisdicional cibernética da Índia constitui o pilar inviolável de nossa presença nas Nações Unidas. Com a aprovação do Digital Personal Data Protection Act (DPDP), a Índia estabeleceu um marco regulatório robusto que não apenas protege a privacidade dos seus 1,4 bilhão de cidadãos, mas também consagra a soberania nacional sobre os fluxos de dados.
+
+1.1. Localização de Dados (Data Localization) e Jurisdição
+Deve-se opor firme resistência contra convenções internacionais ou diretrizes da OMC que tentem impor fluxos de dados irrestritos (free flow of data) que desrespeitem as normativas de localização estipuladas por países em desenvolvimento. Os dados sensíveis, financeiros e governamentais do povo indiano devem ser armazenados e processados em Data Centers fisicamente alocados no território da Índia, sujeitos única e exclusivamente à jurisdição da Suprema Corte e dos tribunais indianos. Relatórios extraterritoriais ou requisições unilaterais estrangeiras não possuem eficácia coercitiva no nosso ordenamento.
+
+1.2. Propriedade dos Dados como Recurso Soberano
+O Estado indiano não reconhece os dados de sua população como res nullius (coisa de ninguém) apta à extração livre pelas corporações de tecnologia (Big Techs) estrangeiras. Os dados agregados constituem um recurso nacional estratégico que deve ser utilizado primordialmente para o aprimoramento das políticas públicas indianas, inovação doméstica e bem-estar social.
+
+2. EIXO II: INFRAESTRUTURA DIGITAL E OS "NOVOS TEMPLOS DA ÍNDIA MODERNA"
+Se, no século XX, as grandes barragens hidroelétricas foram chamadas de "os templos da Índia moderna", no século XXI, os Data Centers de hiperescala assumem esse papel. A infraestrutura computacional não é mero vetor econômico; é um imperativo de Direitos Humanos fundamentais, essencial para a garantia da identidade cidadã, inclusão financeira e acesso à justiça.
+
+2.1. Expansão dos Data Centers Nacionais e Soberania Computacional
+A política federal indiana classificou formalmente os Data Centers como "Infraestrutura Crítica", garantindo acesso facilitado a crédito, terrenos e energia. Hoje, hubs tecnológicos em Mumbai, Chennai, Hyderabad e Bengaluru formam a espinha dorsal de um ecossistema independente. Esta infraestrutura permite a operação da India Stack e da Infraestrutura Digital Pública (DPI) sem dependência de serviços em nuvem (cloud) controlados por jurisdições alienígenas.
+
+O IMPACTO DA INFRAESTRUTURA DIGITAL PÚBLICA (DPI)
+A rede de Data Centers soberanos da Índia sustenta a infraestrutura do Aadhaar (o maior sistema de identidade biométrica do mundo, atendendo a mais de 1,3 bilhão de pessoas) e o UPI (Unified Payments Interface, processando mais de 10 bilhões de transações mensais). Essa infraestrutura, 100% controlada e operada nacionalmente, é a prova material de que o desenvolvimento soberano na era digital é possível e altamente escalável.
+
+3. EIXO III: SUSTENTABILIDADE, ESTRESSE HÍDRICO E A TRANSIÇÃO ENERGÉTICA
+A Índia está na linha de frente dos impactos das mudanças climáticas. O processamento de dados e o treinamento de modelos de Inteligência Artificial exigem um consumo colossal de energia e água para refrigeração, o que representa um desafio formidável em regiões tropicais suscetíveis ao estresse hídrico.
+
+3.1. Data Centers Verdes e a Aliança Solar Internacional (ISA)
+Liderando pelo exemplo, o Governo Indiano tem condicionado a aprovação de Data Centers de hiperescala (Hyperscale) ao uso de matrizes energéticas limpas. Integrando as metas do Panchamrit (compromisso indiano para atingir emissões líquidas zero até 2070), a Índia impulsiona a alimentação dessas infraestruturas através de vastos parques solares. Nossa magistratura deve defender que a expansão global de Data Centers seja atrelada ao financiamento climático; os países do Norte não podem "exportar" suas pegadas de carbono digitais para o Sul Global sem compensações justas e transferências tecnológicas.
+
+3.2. Justiça Climática Tecnológica
+Os padrões de refrigeração de Data Centers desenvolvidos em climas temperados não são aplicáveis ao subcontinente indiano. A exigência do representante indiano deve ser clara: patentes de tecnologias de refrigeração sustentável e microchips de alta eficiência energética devem sofrer flexibilização de propriedade intelectual (TRIPS) sob o guarda-chuva de mitigação climática, garantindo acesso democrático a inovações ecologicamente vitais.
+
+4. EIXO IV: CIÊNCIA, IA E SOBERANIA DE SEMICONDUTORES
+A Índia recusa a condição de simples consumidora de hardware e inteligência artificial estrangeira. A Iniciativa de Semicondutores (India Semiconductor Mission) e a Missão de IA (IndiaAI Mission) buscam domesticar toda a cadeia de valor da computação.
+• Soberania de Hardware: Não há soberania de dados sem soberania de infraestrutura física (chips, servidores, cabeamento submarino). A ONU deve promover cadeias de suprimentos globais resilientes e multipolares.
+• IA, Inclusão e Regulação Ética: A Índia defende o desenvolvimento de uma IA multilíngue (como o projeto Bhashini), que abarque as dezenas de línguas oficiais indianas e previna o apagamento cultural promovido por algoritmos anglocêntricos treinados no Norte Global.
+
+5. EIXO V: DESIGUALDADE DIGITAL E COOPERAÇÃO SUL-SUL
+A arquitetura tecnológica internacional corre o risco de perpetuar um "Apartheid Digital". A Índia lidera a proposição de transformar as tecnologias fundamentais (Bens Públicos Digitais) em ferramentas de combate à pobreza, compartilhando seu modelo DPI (Digital Public Infrastructure) com nações da África e América Latina em código aberto, sem armadilhas de endividamento (debt traps) frequentemente associadas a investimentos de outras potências.
+
+DIMENSÃO DA DESIGUALDADE DIGITAL | DIAGNÓSTICO CRÍTICO MULTILATERAL | POSIÇÃO ESTRATÉGICA DA ÍNDIA
+Monopólio de Infraestrutura (Cloud) | Menos de 5 corporações concentram quase 80% do mercado de processamento em nuvem global, ditando preços e termos. | Incentivar redes federadas e soberanas, apoiando o financiamento multilateral para a construção de Data Centers públicos em países do Sul Global.
+Exclusão Financeira e Digital | Sistemas de pagamento e identificação privatizados geram altas taxas, excluindo as populações mais vulneráveis do mercado. | Afirmar que sistemas de identidade e pagamentos digitais (DPI) devem ser geridos como bens públicos fundamentais (Open Source), à semelhança do modelo indiano UPI/Aadhaar.
+Acesso à Computação de Alto Desempenho (HPC) | O poder computacional necessário para pesquisas climáticas e de saúde está concentrado no Norte Global. | Democratização do Compute (poder de processamento), promovendo consórcios da ONU para acesso compartilhado à supercomputação para nações em desenvolvimento.
+
+6. GUIA RÁPIDO PARA DEBATES E INTERVENÇÕES PLENÁRIAS
+Ao tomar a palavra nas sessões deliberativas da ONU, Sua Excelência deve orientar suas intervenções verbais e réplicas com base no seguinte núcleo dogmático e diplomático:
+1. Afirmação Inegociável da Soberania de Dados: Rejeitar qualquer tratado que proíba leis nacionais de localização de dados, resguardando o direito da Índia de manter servidores locais por segurança nacional.
+2. DPI como Direito Humano: Defender a Infraestrutura Digital Pública como ferramenta essencial para o cumprimento dos Objetivos de Desenvolvimento Sustentável (ODS), promovendo o modelo de código aberto indiano como padrão-ouro global.
+3. Transferência de Tecnologias Verdes: Exigir que as tecnologias de refrigeração avançada e eficiência energética para Data Centers sejam transferidas aos países em desenvolvimento em condições concessionais, em nome da Justiça Climática.
+4. Ética Algorítmica e IA Anticolonial: Denunciar os vieses discriminatórios dos atuais grandes modelos de linguagem (LLMs) ocidentais e exigir financiamento para a preservação digital das línguas e culturas do Sul Global.
+5. Democratização da Governança da Internet: Exortar a ONU a transferir as sedes e fóruns de governança cibernética de corporações privadas para instâncias verdadeiramente multilaterais, conferindo poder de voto proporcional e efetivo à Ásia, África e América Latina.
+
+Documento compilado para uso exclusivo da delegação oficial da República da Índia.
+Gabinete do Desembargador — Suprema Corte da Índia | Nova Delhi / Nova York, 2026.

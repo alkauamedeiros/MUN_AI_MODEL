@@ -1,0 +1,97 @@
+ANOTAÇÕES DE APOIO — BRASIL NA ONU:
+POSICIONAMENTO GERAL E DATA CENTERS
+
+Documento preparatório de uso pessoal, com base em fontes oficiais (Presidência, Itamaraty, MDIC, MCTI,
+Senado, ANPD, CNJ, ONU) e imprensa especializada. Atualizado em 07/09/2026.
+
+I. O Brasil no cenário internacional
+• Reforma da governança global — proposta apresentada por Lula na Cúpula do Futuro da ONU (set./2024)
+para revisar os mecanismos decisórios do FMI, do Banco Mundial e do Conselho de Segurança, herdados de
+Bretton Woods (1944).
+• Reforma do CS-ONU — Brasil integra o G4 (com Alemanha, Índia e Japão) na defesa de assentos
+permanentes; reforma exige 2/3 da Assembleia Geral e inclusão de países africanos no pacote.
+• Não alinhamento ativo — rejeição a divisões do mundo em esferas de influência/“protetorados”; defesa da
+soberania nacional e da legalidade internacional.
+• G20 e BRICS — presidência do G20 em 2024 (Cúpula do Rio) com foco em combate à fome, transição
+energética e reforma da governança global; lançou a Aliança Global contra a Fome e a Pobreza (+200 membros,
+14 entidades da ONU); presidiu também o BRICS.
+• COP30 — anfitrião da COP30 em Belém (nov./2025), colocando a Amazônia no centro da agenda climática —
+inclusive o debate, ainda informal, sobre o custo ambiental de data centers (Seção III).
+
+II. Brasil e a governança digital multilateral na ONU
+• Pacto Digital Global — adotado na Cúpula do Futuro (set./2024); primeiro compromisso global de governança
+de dados, com ações exigidas dos Estados até 2030.
+• Órgão Consultivo de Alto Nível sobre IA — relatório da ONU “Governança da IA para a Humanidade”
+(set./2024) propôs Painel Científico Internacional, Diálogo Político sobre Governança de IA, Rede Global de
+Talentos e Fundo Global de IA — agenda que o Brasil apoia.
+• Discursos de Lula — em Nova Délhi (fev./2026) e no G7 (jun./2026), Lula defendeu governança que
+“reconheça a diversidade de trajetórias nacionais”, alertou contra a “dominação” de poucas big techs sobre
+algoritmos e infraestrutura, e afirmou que “nenhum foro substitui a universalidade das Nações Unidas”.
+• Desigualdade de acesso — 2,6 bilhões de pessoas ainda desconectadas da internet e projeção de 660 milhões
+sem eletricidade em 2030 — argumento central para ligar IA a desenvolvimento e inclusão.
+
+Formulação-síntese usada pela diplomacia brasileira
+Em diferentes fóruns (Nova Délhi, G7, ONU), o Brasil repete essencialmente a mesma fórmula: a governança da
+IA deve respeitar a pluralidade de trajetórias nacionais de desenvolvimento e servir para reforçar — nunca
+fragilizar — a democracia, a coesão social e a soberania de cada país.
+
+III. Posicionamento do Brasil sobre data centers
+Panorama: o Brasil concentra ~206 data centers em operação (42,1% da América Latina) e o governo busca
+posicionar o país como hub global de dados/IA. O Plano Brasileiro de IA (PBIA, 2024–2028, R$ 23 bi) prevê
+supercomputador nacional, chips abertos (RISC-V) e modelos de IA em português.
+
+Marco normativo (REDATA): MP 1.318/2025 criou o Regime Especial para Serviços de Data Center, zerando
+tributos federais sobre importação de componentes; perdeu validade em fev./2026; recriada pelo PL 278/2026,
+aprovado por Câmara e Senado (1º/set./2026) e agora aguardando sanção presidencial.
+
+Contrapartida do REDATA Parâmetro
+Energia Fonte limpa ou renovável
+Água Eficiência hídrica (WUE) ≤ 0,05 L/kWh/ano
+Investimento local 2% do valor importado com benefício fiscal
+Mercado interno 10% da capacidade reservada ao mercado interno
+Custo fiscal ~R$ 5,2 bi (2026) + R$ 1 bi/ano nos 2 anos seguintes
+Debate sobre soberania real: sociedade civil contesta a ideia de que hospedar servidores equivale a soberania
+digital — argumenta-se que soberania exige capacidade tecnológica e científica própria, governança de dados,
+autonomia energética e proteção de recursos naturais. O Brasil ocupa a 48ª posição entre 86 países em um
+índice de soberania digital citado no debate (China em 1º; EUA em 4º), enquanto as matrizes tecnológicas das
+big techs seguem fora do país.
+
+Dimensão socioambiental: na COP30, o uso da IA dividiu opiniões entre seu potencial climático (alertas de
+enchente, monitoramento de emissões) e o alto consumo hídrico/energético dos data centers. Caso
+emblemático: o data center BEL1, em Belém, anunciado como “legado da COP30” (parceria Elea Data
+Centers/Axia Energia), com capacidade projetada de até 100 MW (~consumo de 500 mil residências) e
+reportagens de 2026 apontando ausência de processo de licenciamento ambiental protocolado.
+
+Marco Legal da IA (PL 2338/2023): aprovado no Senado em 10/12/2024; em 2026 tramita na Câmara, com
+adiamentos por impasses de constitucionalidade; modelo de risco (à la AI Act europeu), multas de até R$ 50 mi,
+e Sistema Nacional de Regulação e Governança de IA (SIA) sob a ANPD, com apoio do CRIA, CECIA e CBIA. O
+CNJ é referência internacional como órgão de cúpula judiciário pioneiro na regulação própria do uso de IA nos
+tribunais (transparência, rastreabilidade, auditoria e responsabilidade).
+
+Atenção — natureza do documento
+Consolida dados públicos até 07/09/2026; o PL 278/2026 aguardava sanção presidencial nesta data. Confirmar o
+status mais recente antes de afirmações categóricas em plenário.
+
+IV. Pontos de atenção e possíveis intervenções
+• Soberania digital e jurisdição — localização física de servidores basta para caracterizar soberania digital, ou o
+critério deveria incluir controle tecnológico e capacidade de auditoria? Tema com interface direta em proteção de
+dados e cooperação jurídica internacional.
+• Licenciamento ambiental — o caso BEL1 ilustra a tensão entre atrair investimento e cumprir licenciamento
+ambiental/eficiência hídrica — pauta de justiça climática e responsabilidade corporativa transnacional.
+• Papel do Judiciário — citar a experiência do CNJ como modelo setorial de governança de IA no Judiciário,
+anterior à lei geral, reforça a credibilidade técnica do Brasil no tema.
+• Multilateralismo como salvaguarda — a defesa de “diversidade de trajetórias nacionais” serve para
+argumentar contra modelos únicos de regulação impostos por poucos países/empresas, reforçando a
+centralidade da ONU (Pacto Digital Global, Painel Científico sobre IA).
+
+V. Fontes consultadas
+Presidência da República/Agência Gov (agenciagov.ebc.com.br) · Agência Brasil (agenciabrasil.ebc.com.br) ·
+MDIC — Política Nacional de Datacenters (gov.br/mdic) · MCTI — PBIA · Senado Federal — tramitação do PL
+2338/2023 e do PL 278/2026 (senado.leg.br) · ANPD (gov.br/anpd) · Nações Unidas no Brasil (brasil.un.org) ·
+ONU News em português (news.un.org/pt) · Itamaraty (csnu.itamaraty.gov.br) · Instituto Lula (institutolula.org) ·
+reportagens de ConvergênciaDigital, IT Fórum, Carta Amazônia, CartaCapital, Intercept Brasil, Brasil de Fato e
+Vermelho, usadas para contextualização e checagem cruzada.
+Documento de apoio pessoal, sem caráter oficial; não substitui posições formalmente veiculadas pelo Ministério das Relações
+Exteriores ou pela Presidência da República.
+
+Anotações de apoio — conferência da ONU — uso pessoal e reservado Página 2/2

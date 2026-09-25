@@ -1,0 +1,121 @@
+ESTADOS UNIDOS DA AMÉRICA • MISSÃO DIPLOMÁTICA JUNTO ÀS NAÇÕES UNIDAS
+DOSSIÊ E ANOTAÇÕES ESTRATÉGICAS DE BENCH (BENCH MEMO)
+Comissão de Ciência e Tecnologia para o Desenvolvimento (CSTD) / UNCTAD — Posição Oficial dos EUA
+
+--------------------------------------------------------------------------------
+METADATO DO DOCUMENTO:
+• AUTORIDADE: Representação Especial da Delegação dos Estados Unidos da América
+• DELEGAÇÃO: Missão Diplomática dos EUA junto à Organização das Nações Unidas (USUN / Department of State)
+• NATUREZA: Anotações Reservadas de Trabalho, Posicionamento Estratégico e Linhas Diplomáticas
+• EIXOS DE ATUAÇÃO: Soberania Digital, Liderança em IA, CHIPS Act, Data Centers, Livre Fluxo de Dados e Rejeição de Pautas Climático-Ideológicas
+--------------------------------------------------------------------------------
+
+1. PREÂMBULO E MARCO HERMENÊUTICO-JURÍDICO
+
+O presente documento consolida a orientação estratégica da Delegação dos Estados Unidos da América para as deliberações na Comissão de Ciência e Tecnologia para o Desenvolvimento (CSTD) e na UNCTAD. Como líder global em inovação, tecnologia de ponta e infraestrutura digital, a atuação americana pauta-se pela defesa intransigente do livre mercado, da proteção à propriedade intelectual, da segurança nacional e da governança multissetorial (multistakeholder).
+
+A prosperidade econômica e o avanço tecnológico global não decorrem de intervenções estatais centralizadas, de regulações coercitivas ou de repasses compulsórios multilaterais, mas sim da criação de ambientes regulatórios favoráveis à atração de investimentos privados, da livre concorrência e do cumprimento do Estado de Direito. Diante das tentativas de instrumentalização do fórum multilateral para impor restrições à inovação ou reescrever regras do comércio internacional, a representação dos Estados Unidos reafirma a supremacia do setor privado e das garantias jurídicas de mercado.
+
+DIRETRIZ SUPREMA DE AÇÃO PLENÁRIA:
+"A liderança tecnológica global e a competitividade econômica dos Estados Unidos baseiam-se na força dos mercados livres, na segurança nacional e na inovação do setor privado, repudiando a centralização burocrática, moratórias coercitivas e agendas ideológicas no âmbito multilateral."
+
+
+2. EIXO I: SOBERANIA DIGITAL, LIDERANÇA EM IA E INFRAESTRUTURA DE DATA CENTERS
+
+A consolidação da economia digital exige uma infraestrutura física robusta e segura. Os Estados Unidos concentram cerca de 45% dos data centers de todo o mundo e mantêm a vanguarda do desenvolvimento em Inteligência Artificial (IA).
+
+2.1. Liderança em IA e Remoção de Barreiras Regulatórias
+A política oficial dos EUA visa sustentar e aprimorar o domínio global em IA para promover o desenvolvimento econômico e a segurança nacional. Por meio da revogação de diretrizes governamentais anteriores que atuavam como entraves burocráticos, o governo americano eliminou barreiras à inovação, rejeitando a imposição de agendas sociais ou vieses ideológicos projetados sobre os sistemas de IA.
+
+2.2. Expansão de Data Centers e Atração de Investimento Estrangeiro Direto (IED)
+A expansão dos centros de dados é o principal vetor de atração de Investimento Estrangeiro Direto (IED) global. A posição americana estabelece que:
+• Financiamento via Mercado: A expansão de infraestruturas críticas (data centers, redes elétricas e cabos submarinos) em economias emergentes deve ser viabilizada por IED, parcerias público-privadas (PPPs) e mecanismos de blended finance via IFC e Banco Mundial, e não por fundos compulsórios da ONU.
+• Segurança da Cadeia de Suprimentos e Clean Network: Exige-se a exclusão de "fornecedores não confiáveis" (untrusted vendors), especificamente empresas sujeitas à jurisdição de estados autoritários (como a RPC), das redes de telecomunicações, 5G e infraestruturas de servidores.
+• Emergência Nacional e Proteção do Setor Tecnológico: Sob declarações de emergência nacional, os EUA utilizam prerrogativas legítimas para proibir transações comerciais que envolvam tecnologias desenvolvidas por adversários estrangeiros que representem riscos catastróficos à infraestrutura crítica.
+
+
+3. EIXO II: SEMICONDUTORES, MICROELETRÔNICA AVANÇADA E O CHIPS ACT
+
+A liderança em IA e a operação dos data centers dependem da resiliência e da segurança do hardware microeletrônico. Os Estados Unidos estruturaram uma arquitetura de incentivos domésticos combinada com rigorosas salvaguardas de segurança nacional.
+
+3.1. Execução do CHIPS and Science Act
+Administrado pelo Departamento de Comércio (DOC) e pelo NIST, o CHIPS Act mobiliza mais de US$ 50 bilhões para restaurar a capacidade fabril e de P&D doméstica:
+• US$ 39 bilhões em subsídios diretos para construção e modernização de instalações comerciais de semicondutores (fabs), empacotamento avançado e montagem.
+• US$ 11 bilhões para programas nacionais de P&D e criação de 20 hubs tecnológicos regionais.
+• US$ 10 bilhões para fortalecer as pesquisas do NIST e a cadeia de pequenos fabricantes (Hollings MEP).
+• Consórcio Público-Privado: O National Semiconductor Technology Center (NSTC) atua na ponte entre design e comercialização, alavancando investimentos massivos de reshoring (Intel, TSMC, Micron, Samsung).
+
+3.2. Controles de Exportação e Salvaguardas (BIS/DOC)
+Com base nas regulamentações do Bureau of Industry and Security (BIS/DOC) e no Export Administration Regulations (EAR - regras de outubro de 2022 e atualizações), os EUA impõem controle rígido de licenças para circuitos integrados avançados, supercomputadores e equipamentos de fabricação de semicondutores (SME) destinados a países de preocupação (Grupo D:5/China). Tais medidas utilizam critérios técnicos como densidade de desempenho (performance density), licença NAC, ampliação das regras de Produto Direto Estrangeiro (FDP), Entity List e restrições a U.S. Persons para evitar a militarização da tecnologia de ponta.
+
+
+4. EIXO III: SUSTENTABILIDADE AMBIENTAL PRAGMÁTICA E REJEIÇÃO DA AGENDA CLIMÁTICA DA ONU
+
+Os Estados Unidos redefiniram formalmente sua postura diante dos marcos ambientais e ideológicos multilaterais, priorizando o crescimento econômico e a soberania nacional.
+
+4.1. Denúncia da Agenda 2030 e dos ODS
+A representação americana rejeita e denúncia expressamente a Agenda 2030 para o Desenvolvimento Sustentável e os Objetivos de Desenvolvimento Sustentável (ODS). Os EUA sustentam que a Agenda 2030 promove uma governança global branda incompatível com a soberania nacional e contamina os debates técnicos da ONU ao introduzir pautas ideológicas divisivas (como ideologia de gênero e imposições climáticas). Nesse contexto, os EUA ordenaram a retirada do Acordo de Paris para priorizar o desenvolvimento e a segurança energética nacional.
+
+4.2. Resposta às Pressões Ambientais sobre Data Centers e Uso Prático da Tecnologia
+Frente às questionamentos sobre o consumo energético e ambiental dos data centers, a delegação americana estabelece:
+• Rejeição de Moratórias e Regulações Punitivas: Os EUA opõem-se frontalmente a qualquer tentativa da ONU de impor metas ambientais vinculantes, moratórias ou taxas ecológicas globais que prejudiquem o desenvolvimento das economias. Soluções de eficiência e transição energética devem ser conduzidas por inovações do mercado privado.
+• Aplicações Tecnológicas Práticas: Os EUA defendem o uso pragmático das TICs e tecnologias geoespaciais (sensoriamento remoto por satélite, GPS e GIS) exclusivamente para fins práticos e de segurança, tais como prevenção de desastres naturais, monitoramento agrícola e gestão hídrica.
+
+
+5. EIXO IV: GOVERNANÇA DIGITAL, LIVRE FLUXO DE DADOS E PROPRIEDADE INTELECTUAL
+
+A governança global da internet deve preservar a abertura, a interoperabilidade e o modelo multissetorial (multistakeholder), rechaçando a centralização estatal coercitiva.
+
+5.1. Livre Fluxo Transfronteiriço de Dados (DFFT) vs. "Soberania Digital"
+Os EUA combatem ativamente as leis de "soberania digital" que exigem a localização forçada de dados e servidores. A retenção obrigatória de dados encarece os custos de inovação e fragmenta a economia digital. Os EUA promovem o Livre Fluxo de Dados com Confiança (Data Free Flow with Trust - DFFT), respaldado por arranjos legais seguros como o EU-U.S. Data Privacy Framework e a Ordem Executiva 14086 (que instituiu o tribunal independente Data Protection Review Court - DPRC).
+
+5.2. Proteção à Propriedade Intelectual e Modelo Multistakeholder
+• Proteção Rigorosa à PI: Os EUA repelem exigências de transferência compulsória de tecnologia, quebra de patentes ou abertura forçada de códigos-fonte e algoritmos proprietários de IA. Toda cooperação tecnológica deve ser voluntária e sob Termos Mutuamente Acordados (MAT).
+• Governança Multissetorial: A liderança da internet e da IA deve permanecer no Fórum de Governança da Internet (IGF) e na CSTD sob a participação conjunta do setor privado, academia e comunidade técnica, bloqueando a criação de novos órgãos executivos burocráticos ou intergovernamentais na ONU.
+
+
+6. EIXO V: ATRAÇÃO DE IED, DESIGUALDADE TECNOLÓGICA E ATUAÇÃO NA UNCTAD16 / CSTD
+
+A redução da lacuna tecnológica global não se realiza mediante doações ou redistribuição de ativos, mas sim pela capacitação técnica e abertura de mercados ao capital privado.
+
+DIRETRIZES SOBRE A ATUAÇÃO EM FÓRUNS MULTILATERAIS:
++---------------------------+-------------------------------------------------+----------------------------------------------------------------------------------------------------+
+| Dimensão Estratégica      | Diagnóstico Crítico / Pressões Externas         | Posição Estratégica dos Estados Unidos                                                             |
++---------------------------+-------------------------------------------------+----------------------------------------------------------------------------------------------------+
+| Normas Comerciais e PI    | Tentativas de usar a UNCTAD para alterar o      | Afirmar a OMC como o único fórum competente para comércio e PI. Manter a UNCTAD restrita a       |
+|                           | regime global de comércio e propriedade.        | pesquisa e assistência técnica.                                                                    |
++---------------------------+-------------------------------------------------+----------------------------------------------------------------------------------------------------+
+| Arquitetura Financeira    | Propostas de taxas globais, fundos compulsórios | Rejeitar fundos da ONU. Reestruturações de dívida cabem exclusivamente ao FMI e ao Clube de Paris  |
+| e Dívida                  | e gestão de dívida via UNCTAD.                  |                                                                                                    |
++---------------------------+-------------------------------------------------+----------------------------------------------------------------------------------------------------+
+| Capacitação Tecnológica   | Exigências de transferência forçada e doação de | Focar em capacity building (USAID, DFC, Women in the Digital Economy Fund) e atração de IED        |
+|                           | tecnologia de ponta.                            | mediante segurança jurídica.                                                                       |
++---------------------------+-------------------------------------------------+----------------------------------------------------------------------------------------------------+
+
+6.1. Desempenho Pragmático no Consenso de Genebra (UNCTAD16)
+Durante a conferência UNCTAD16 (outubro de 2025, Suíça), a atuação delimitadora dos EUA foi determinante para:
+1. Manter a UNCTAD focada estritamente em seu mandato de pesquisa e assistência técnica para países vulneráveis (LDCs/SIDS), através de programas práticos como o ASYCUDA.
+2. Prevenir escaladas de guerras comerciais e tarifárias globais por meio de negociações pragmáticas.
+3. Viabilizar a aprovação do texto por consenso recorrendo às "Declarações de Posição" (Explanation of Position), registrando formalmente ressalvas e protegendo os interesses nacionais sem paralisar o fórum.
+
+
+7. GUIA RÁPIDO PARA DEBATES E INTERVENÇÕES NA PLENÁRIA
+
+Ao tomar a palavra nas sessões da CSTD, da UNCTAD ou da Assembleia Geral da ONU, o Representante dos Estados Unidos deve orientar suas intervenções no seguinte decálogo:
+
+1. Sustentar que a atração de Investimento Estrangeiro Direto (IED) para data centers e redes digitais depende estritamente de segurança jurídica, mercados abertos e proteção da propriedade intelectual.
+2. Rejeitar categoricamente a criação de taxas globais, fundos compulsórios ou mecanismos financeiros obrigatórios administrados pela ONU.
+3. Defender que requisitos ambientais para data centers devem apoiar-se na inovação privada, repudiando moratórias operacionais ou metas climáticas punitivas impostas pela ONU.
+4. Afirmar o Livre Fluxo Transfronteiriço de Dados com Confiança (DFFT) e rechaçar leis de "soberania digital" baseadas na localização forçada de servidores ou impostos digitais discriminatórios.
+5. Apresentar o EU-U.S. Data Privacy Framework e a Ordem Executiva 14086 como provas de que a privacidade é plenamente compatível com o livre comércio digital.
+6. Condenar qualquer regulamentação que exija a transferência forçada de tecnologia, quebra de patentes ou abertura de códigos-fonte e algoritmos de IA.
+7. Exigir a adoção exclusiva de fornecedores confiáveis (trusted vendors) nas infraestruturas críticas de telecomunicações, redes de data centers e cabos submarinos.
+8. Justificar as restrições de exportação do BIS/DOC e os investimentos do CHIPS Act como salvaguardas legítimas e necessárias de segurança nacional contra a modernização militar autoritária.
+9. Bloquear qualquer iniciativa multilateral que vise transferir a governança da internet e da IA para novos órgãos intergovernamentais coercitivos, preservando o modelo multistakeholder (IGF/CSTD).
+10. Reiterar a denúncia à Agenda 2030 e ressaltar que a verdadeira prosperidade digital deriva da liberdade econômica, da responsabilidade fiscal e do Estado de Direito.
+
+--------------------------------------------------------------------------------
+DOCUMENTO COMPILADO PARA USO EXCLUSIVO DA DELEGAÇÃO DOS ESTADOS UNIDOS DA AMÉRICA.
+United States Mission to the United Nations (USUN) • Department of State
+Nova York / Genebra, 2026.
+--------------------------------------------------------------------------------

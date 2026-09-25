@@ -1,0 +1,446 @@
+==============================================================================
+REPÚBLICA FEDERAL DA ALEMANHA
+==============================================================================
+DOSSIÊ DE POSICIONAMENTO — DELEGAÇÃO ALEMÃ
+==========================================
+
+Tema: Expansão, regulamentação e sustentabilidade dos data centers no contexto da transformação digital global
+Natureza do documento: Material interno de consulta para uso durante os debates, negociações informais e redação de documento final
+Classificação sugerida: Uso da delegação
+
+
+______________________________________________________________________________
+
+
+1. SÍNTESE DO POSICIONAMENTO
+============================
+
+A República Federal da Alemanha comparece a esta conferência com uma posição construtiva, favorável à expansão da infraestrutura digital global e contrária a qualquer moratória, congelamento ou restrição generalizada à construção de data centers. A Alemanha entende que a infraestrutura de processamento e armazenamento de dados constitui hoje um bem de interesse público comparável às redes de energia, transporte e telecomunicações, e que sua ausência — e não sua presença — é o principal fator de exclusão digital no mundo contemporâneo.
+
+O posicionamento alemão pode ser resumido na seguinte fórmula, recomendada como linha permanente de discurso:
+
+    "A Alemanha não pergunta se devemos construir data centers, mas como devemos construí-los. Nossa resposta é: com energia limpa, com eficiência mensurável, com proteção de dados, com segurança cibernética e com distribuição geográfica justa."
+
+A delegação deve rejeitar de forma cortês, porém firme, qualquer enquadramento que oponha inovação tecnológica e proteção ambiental. A experiência industrial alemã demonstra que a regulamentação ambiental antecipada e previsível funciona como vantagem competitiva, não como custo — pois cria mercados para tecnologias de eficiência, reduz a exposição a choques de preços de energia e confere segurança jurídica de longo prazo ao investidor.
+
+
+______________________________________________________________________________
+
+
+2. CONTEXTO NACIONAL — CREDENCIAIS DA ALEMANHA NO TEMA
+======================================================
+
+Estes dados sustentam a autoridade da delegação para falar sobre o assunto e devem ser mobilizados quando a posição alemã for questionada como excessivamente restritiva.
+
+Posição no mercado digital
+- A Alemanha é o maior mercado de data centers da Europa continental, com capacidade instalada substancial e crescimento acelerado.
+- Frankfurt am Main abriga o DE-CIX, historicamente o maior ponto de troca de tráfego de internet do mundo em volume de dados, com picos que ultrapassam a marca dos terabits por segundo em ordem de grandeza de dezenas.
+- Frankfurt integra o núcleo "FLAP-D" (Frankfurt, Londres, Amsterdã, Paris, Dublin), que concentra a maior parte da capacidade europeia — uma concentração que a própria Alemanha reconhece como excessiva e deseja ver mitigada.
+- A Alemanha sedia o supercomputador JUPITER, no Centro de Pesquisa de Jülich, primeiro sistema de classe exascale da Europa, desenvolvido no âmbito da empresa comum EuroHPC.
+
+Compromissos climáticos e energéticos
+- Neutralidade climática nacional até 2045, meta mais ambiciosa que a média da União Europeia (2050), com redução de 65% das emissões até 2030 em relação a 1990.
+- Meta de aproximadamente 80% de eletricidade de fontes renováveis até 2030.
+- Encerramento definitivo da geração nuclear e cronograma de eliminação do carvão — processo conhecido como Energiewende (transição energética), iniciado formalmente há mais de duas décadas.
+- Estima-se que os data centers alemães consumam da ordem de 20 terawatt-hora por ano, cerca de 4% do consumo elétrico nacional, com projeções de crescimento significativo até 2030. Em Frankfurt, a participação dos data centers no consumo municipal de eletricidade supera com folga a média nacional, aproximando-se de um quinto do total.
+
+Marco regulatório já em vigor (a Alemanha fala com base em prática, não em intenção)
+- Lei de Eficiência Energética (Energieeffizienzgesetz — EnEfG, 2023): primeiro instrumento normativo do mundo a impor obrigações vinculantes e escalonadas especificamente a data centers, incluindo:
+  - limites máximos de PUE (Power Usage Effectiveness) — da ordem de 1,2 para instalações novas e de 1,3 a 1,5 para instalações existentes, conforme cronograma;
+  - cotas obrigatórias de reaproveitamento de calor residual, crescentes ao longo dos anos para novas instalações;
+  - obrigação de suprimento por eletricidade renovável, evoluindo para 100% até 2027;
+  - sistemas de gestão energética obrigatórios acima de determinados limiares de potência;
+  - obrigações de transparência e reporte público de indicadores.
+- Regulamento Geral sobre a Proteção de Dados (RGPD/DSGVO), em vigor desde 2018, com autoridades de supervisão federais e estaduais independentes.
+- Regulamento Europeu de Inteligência Artificial (AI Act), primeiro marco horizontal e baseado em risco do mundo, com aplicação escalonada.
+- Diretiva NIS2, Regulamento de Resiliência Operacional Digital (DORA), Cyber Resilience Act, Data Act e Data Governance Act.
+- Registro Europeu de Data Centers, criado no âmbito da Diretiva de Eficiência Energética da UE, que obriga instalações acima de determinada potência a reportar periodicamente consumo de energia, consumo de água, PUE, WUE e taxa de reaproveitamento de calor.
+- Gaia-X e o IPCEI-CIS (Projeto Importante de Interesse Europeu Comum em Infraestruturas e Serviços de Nuvem), iniciativas nas quais a Alemanha exerceu papel fundador.
+- Bundesamt für Sicherheit in der Informationstechnik (BSI), autoridade federal de segurança cibernética, e o catálogo de critérios C5 para computação em nuvem.
+
+
+______________________________________________________________________________
+
+
+3. EIXOS TEMÁTICOS — POSIÇÃO, ARGUMENTOS E PROPOSTAS
+====================================================
+
+3.1. Sustentabilidade ambiental, consumo energético e hídrico
+-------------------------------------------------------------
+
+Posição. A Alemanha defende que a expansão dos data centers deve ser desacoplada do crescimento das emissões e do estresse hídrico. Isso é tecnicamente viável hoje e não requer tecnologias ainda inexistentes — requer padrões, medição e transparência.
+
+Argumentos para uso em plenário.
+- O consumo elétrico global dos data centers já é comparável ao de economias nacionais de porte médio, e as projeções associadas à inteligência artificial generativa apontam para crescimento acentuado na próxima década. Ignorar isso não é neutralidade: é transferir custos ambientais para terceiros e para gerações futuras.
+- O problema não é o consumo em si, mas o consumo opaco, ineficiente e suprido por fontes fósseis. Um data center alimentado por energia renovável, com PUE próximo de 1,1 e calor residual integrado a uma rede de aquecimento urbano, é ambientalmente defensável. Um data center com PUE de 1,8 alimentado por carvão não é.
+- A dimensão hídrica permanece sistematicamente subrelatada no debate internacional. Sistemas de refrigeração evaporativa podem consumir volumes de água doce significativos, frequentemente em regiões já sujeitas a estresse hídrico. A Alemanha, que enfrentou secas severas em anos recentes, considera inaceitável que instalações digitais concorram com o abastecimento humano e a agricultura sem qualquer disciplina normativa.
+- O calor residual é hoje desperdiçado em escala massiva. Trata-se de um recurso energético, não de um resíduo. Experiências no norte da Europa demonstram a viabilidade de integrar data centers a redes de aquecimento distrital.
+
+Propostas concretas a apresentar.
+1. Adoção de um conjunto mínimo de indicadores internacionalmente harmonizados, com base nas normas ISO/IEC da família 30134: PUE (eficiência do uso de energia), WUE (eficiência do uso de água), CUE (eficiência do uso de carbono) e ERF (fator de reaproveitamento de energia).
+2. Criação de um Registro Global Voluntário de Data Centers, sob coordenação da UIT em cooperação com o PNUMA, replicando em escala internacional o modelo do registro europeu — com reporte anual, metodologia comum e acesso público aos dados agregados.
+3. Reconhecimento formal, no documento final, de que eletricidade renovável deve ser adicional, isto é, os novos data centers devem contribuir para a expansão da capacidade de geração limpa, e não apenas absorver a capacidade renovável já existente na rede local.
+4. Estímulo à localização inteligente: instalação preferencial em regiões com abundância de renováveis, clima favorável ao free cooling, disponibilidade de rede de aquecimento e baixo estresse hídrico.
+5. Prioridade a tecnologias de refrigeração líquida em circuito fechado, refrigeração direta a chip e sistemas de baixo consumo hídrico.
+
+Linha de defesa contra objeções. Se acusada de impor barreiras não tarifárias, a delegação deve responder que os indicadores propostos são de transparência, não de proibição; que a Alemanha apoia períodos de transição diferenciados para países em desenvolvimento; e que a padronização internacional reduz — em vez de aumentar — os custos de conformidade de operadores que atuam em múltiplas jurisdições.
+
+
+______________________________________________________________________________
+
+
+3.2. Transição energética e eficiência
+--------------------------------------
+
+Posição. A infraestrutura digital deve ser tratada como parceira da transição energética, e não como sua adversária.
+
+Argumentos.
+- Data centers são consumidores de carga estável, previsível e tecnicamente sofisticada. Podem funcionar como ativos de flexibilidade para o sistema elétrico: deslocando cargas computacionais não urgentes para períodos de excesso de geração solar ou eólica, participando de mercados de resposta à demanda e absorvendo energia que hoje é vertida por restrição de rede.
+- A conexão de grandes cargas à rede exige planejamento conjunto entre operadores digitais, operadores de rede e reguladores. A Alemanha vive na prática o desafio da expansão da rede de transmissão e recomenda que a comunidade internacional trate rede elétrica e infraestrutura digital como um problema único de planejamento.
+- Eficiência é a primeira fonte de energia: cada quilowatt-hora não consumido é o mais barato e o mais limpo.
+
+Propostas.
+1. Incorporar ao documento final o conceito de "computação flexível" (demand-side flexibility) como boa prática recomendada.
+2. Recomendar que os Estados exijam estudos de impacto sobre a rede elétrica e sobre recursos hídricos no licenciamento de instalações acima de determinada potência.
+3. Promover a cogeração e o aproveitamento de calor residual como critério de elegibilidade em financiamentos multilaterais para infraestrutura digital.
+4. Apoiar cooperação técnica sobre normas de eficiência para hardware, incluindo semicondutores, sistemas de refrigeração e fontes de alimentação.
+
+
+______________________________________________________________________________
+
+
+3.3. Soberania digital e segurança cibernética
+----------------------------------------------
+
+Posição. A Alemanha defende a soberania digital, entendida como a capacidade de decidir de forma autônoma sobre a própria infraestrutura, seus dados e suas dependências tecnológicas. Soberania digital não é autarquia digital: a Alemanha rejeita explicitamente o protecionismo tecnológico, a fragmentação da internet e a lógica de blocos fechados.
+
+Argumentos.
+- A concentração da capacidade global de nuvem em um número muito reduzido de provedores, sediados em um número muito reduzido de jurisdições, constitui um risco sistêmico — econômico, de segurança e de continuidade de serviços públicos essenciais.
+- A dependência gera vulnerabilidade a decisões unilaterais alheias: sanções, alterações contratuais abruptas, ordens judiciais extraterritoriais e interrupções de serviço.
+- A Alemanha e a União Europeia respondem a esse risco com interoperabilidade, portabilidade de dados, padrões abertos e diversificação de fornecedores — não com fechamento de fronteiras digitais.
+- A segurança da infraestrutura digital é matéria de segurança nacional e de proteção civil: cabos submarinos, pontos de interconexão, sistemas de energia e data centers constituem infraestrutura crítica cuja proteção exige cooperação internacional.
+
+Propostas.
+1. Reafirmação, no documento final, da aplicabilidade do direito internacional vigente ao ciberespaço e das normas voluntárias de comportamento responsável dos Estados desenvolvidas no âmbito dos Grupos de Trabalho da ONU.
+2. Compromisso explícito de não atacar infraestrutura civil crítica, incluindo cabos submarinos, pontos de troca de tráfego e instalações de processamento de dados civis.
+3. Promoção de requisitos de interoperabilidade e portabilidade em contratos de nuvem, para reduzir aprisionamento tecnológico (vendor lock-in), incluindo limites a taxas de saída de dados.
+4. Rejeição de exigências de localização forçada de dados motivadas por objetivos de vigilância ou de protecionismo comercial, distinguindo-as de exigências legítimas de proteção de dados sensíveis e de setores estratégicos.
+5. Apoio a redes de resposta a incidentes (CERTs/CSIRTs) e a programas de capacitação em segurança cibernética para países em desenvolvimento.
+
+Sensibilidade diplomática. Este é o eixo de maior atrito potencial com parceiros próximos. A delegação deve evitar formulações que possam ser lidas como crítica direta a Estados aliados, preferindo linguagem estrutural ("concentração de mercado", "risco sistêmico", "diversidade de fornecedores") a linguagem geográfica.
+
+
+______________________________________________________________________________
+
+
+3.4. Infraestrutura digital estratégica
+---------------------------------------
+
+Posição. A Alemanha apoia o investimento público e público-privado em infraestrutura digital estratégica, entendida como conectividade de alta capacidade, capacidade de computação de alto desempenho, capacidade de nuvem confiável e cadeias de suprimento resilientes de semicondutores.
+
+Argumentos e propostas.
+- Defender a capacidade computacional como bem público parcial: assim como universidades e institutos de pesquisa têm acesso a bibliotecas e laboratórios, pesquisadores devem ter acesso a capacidade de computação. A Alemanha cita a experiência do EuroHPC e apoia iniciativas equivalentes em outras regiões.
+- Propor a criação ou o fortalecimento de centros regionais de computação de alto desempenho em África, América Latina, Ásia Central e Estados insulares em desenvolvimento, com apoio técnico e financeiro internacional.
+- Apoiar a redundância geográfica das rotas de dados: a dependência de um número reduzido de cabos submarinos e rotas terrestres deixa regiões inteiras vulneráveis a interrupções acidentais ou deliberadas.
+- Reconhecer a importância das cadeias de suprimento de semicondutores e de terras raras, defendendo diversificação, padrões ambientais e trabalhistas na mineração e reciclagem de componentes.
+- Promover a economia circular do hardware: prolongamento da vida útil de servidores, reutilização, reparo e gestão adequada de resíduos eletrônicos, com atenção especial à proibição da exportação de lixo eletrônico para países sem capacidade de tratamento.
+
+
+______________________________________________________________________________
+
+
+3.5. Proteção de dados e privacidade
+------------------------------------
+
+Posição. A proteção de dados pessoais é, para a Alemanha, um direito fundamental — enraizado na Lei Fundamental alemã, na jurisprudência constitucional sobre autodeterminação informacional e na experiência histórica do país com regimes de vigilância estatal. Esta é uma linha vermelha inegociável.
+
+Argumentos.
+- A confiança é condição de possibilidade da economia digital. Usuários, empresas e administrações públicas só transferem dados para infraestruturas em que confiam. Proteção de dados robusta é, portanto, fator de competitividade, não obstáculo a ela.
+- Transferências internacionais de dados devem ser possíveis e são desejáveis — mas condicionadas a garantias adequadas, mecanismos de recurso efetivo para os titulares e limites claros ao acesso governamental.
+- O acesso de autoridades a dados armazenados em jurisdição estrangeira deve ocorrer por meio de canais de cooperação jurídica, com controle judicial, e não por meio de aplicação extraterritorial unilateral de legislação nacional.
+
+Propostas.
+1. Reconhecimento, no documento final, da privacidade como direito humano no ambiente digital, em coerência com as resoluções já adotadas pela Assembleia Geral e pelo Conselho de Direitos Humanos.
+2. Apoio à convergência regulatória internacional, incluindo o alargamento da adesão à Convenção 108+ do Conselho da Europa, aberta a Estados não europeus.
+3. Defesa de autoridades de proteção de dados independentes e adequadamente dotadas em todos os Estados.
+4. Promoção de tecnologias de preservação da privacidade (criptografia forte, computação confidencial, aprendizado federado, privacidade diferencial, anonimização robusta) e rejeição de propostas de enfraquecimento deliberado da criptografia.
+
+
+______________________________________________________________________________
+
+
+3.6. Inteligência artificial responsável
+----------------------------------------
+
+Posição. A Alemanha apoia o desenvolvimento e a difusão da inteligência artificial e considera a abordagem baseada em risco — regular proporcionalmente ao dano potencial, e não uniformemente — o modelo mais equilibrado entre inovação e proteção.
+
+Argumentos.
+- A IA é intensiva em computação, energia e dados. Qualquer discussão séria sobre IA é também uma discussão sobre data centers, e vice-versa. Esta conferência deve tratar os dois temas de forma integrada.
+- A regulamentação não sufoca a inovação; a incerteza regulatória é que a sufoca. Empresas investem onde as regras são claras, estáveis e previsíveis.
+- Há assimetria preocupante: o desenvolvimento de modelos de fronteira exige recursos computacionais concentrados em poucas empresas e poucos países. Sem ação deliberada, a IA aprofundará, em vez de reduzir, as desigualdades entre nações.
+- A pegada ambiental do treinamento e da inferência de modelos deve ser mensurada e divulgada, permitindo escolhas informadas por parte de usuários e compradores públicos.
+
+Propostas.
+1. Apoio ao Painel Científico Internacional Independente sobre Inteligência Artificial e ao Diálogo Global sobre Governança da IA, estabelecidos no âmbito do Pacto Digital Global, como fóruns legítimos e inclusivos.
+2. Adoção de requisitos de transparência energética e ambiental para modelos de grande escala, incluindo divulgação de consumo estimado de energia e água no treinamento.
+3. Compromisso com o princípio de supervisão humana significativa em aplicações de alto risco (saúde, justiça, emprego, migração, aplicação da lei, infraestrutura crítica).
+4. Apoio a iniciativas de capacitação em IA para países em desenvolvimento, incluindo acesso a capacidade computacional, conjuntos de dados públicos, modelos abertos e formação de pesquisadores.
+5. Atenção específica à diversidade linguística e cultural: a maior parte dos modelos atuais é treinada predominantemente em um número reduzido de idiomas, o que reproduz exclusões.
+
+
+______________________________________________________________________________
+
+
+3.7. Desigualdade digital entre países
+--------------------------------------
+
+Posição. A Alemanha reconhece a desigualdade digital como o problema estruturalmente mais grave em discussão nesta conferência e está disposta a apoiar mecanismos concretos de correção.
+
+Argumentos.
+- Estima-se que entre 2,2 e 2,6 bilhões de pessoas permaneçam sem acesso à internet, a maioria em países de baixa renda, em áreas rurais, e desproporcionalmente mulheres.
+- A distribuição da capacidade global de data centers é extraordinariamente desigual: o continente africano, com aproximadamente um sexto da população mundial, abriga uma fração marginal — inferior a poucos pontos percentuais — da capacidade instalada global.
+- A consequência prática é a dependência de latência e de custo: dados gerados em um país precisam viajar milhares de quilômetros para serem processados, encarecendo serviços, degradando desempenho e transferindo valor econômico para fora.
+- A Alemanha rejeita a lógica segundo a qual países em desenvolvimento deveriam adiar sua digitalização por razões climáticas. Ao contrário: é possível construir infraestrutura digital limpa desde o início, evitando o percurso poluente que os países industrializados percorreram — desde que haja financiamento e transferência tecnológica adequados.
+
+Propostas.
+1. Apoio a períodos de transição diferenciados e a metas escalonadas para países em desenvolvimento no cumprimento de padrões de eficiência, em coerência com o princípio das responsabilidades comuns porém diferenciadas.
+2. Mobilização de financiamento por meio da Global Gateway da União Europeia e da cooperação bilateral alemã para infraestrutura digital sustentável.
+3. Priorização de projetos que combinem geração renovável e capacidade computacional — por exemplo, data centers alimentados por energia solar, eólica, hidrelétrica ou geotérmica em regiões com abundância desses recursos, gerando simultaneamente capacidade digital e expansão da rede elétrica local.
+4. Vinculação de apoio financeiro a benefícios locais mensuráveis: empregos qualificados, formação técnica, conexão de comunidades, acesso de universidades locais à capacidade instalada.
+
+
+______________________________________________________________________________
+
+
+3.8. Cooperação internacional e transferência de tecnologia
+-----------------------------------------------------------
+
+Posição. Favorável, com ênfase em cooperação técnica, formação de pessoal e padrões abertos.
+
+Propostas.
+1. Criação de um mecanismo internacional de intercâmbio de boas práticas sobre eficiência de data centers, hospedado na UIT em cooperação com o PNUMA e a AIE.
+2. Programas de formação técnica e acadêmica: bolsas, intercâmbios, cooperação entre universidades e centros de pesquisa, com aproveitamento da rede alemã de institutos aplicados.
+3. Promoção de padrões abertos e software livre como instrumentos de redução de dependência tecnológica.
+4. Apoio a projetos-piloto demonstrativos de reaproveitamento de calor, refrigeração de baixo consumo hídrico e integração com redes renováveis, com resultados publicados abertamente.
+5. A Alemanha deve deixar claro que transferência de tecnologia, na sua concepção, envolve capacitação e coprodução, e não apenas exportação de equipamentos — respeitando, ao mesmo tempo, a proteção de direitos de propriedade intelectual, sobre a qual a delegação deve manter posição de resguardo.
+
+
+______________________________________________________________________________
+
+
+3.9. Impactos econômicos e sociais das grandes instalações
+----------------------------------------------------------
+
+Posição. Os benefícios econômicos dos data centers são reais, porém frequentemente superestimados no discurso promocional e mal distribuídos no território.
+
+Argumentos.
+- Data centers geram investimento de capital elevado, mas emprego operacional comparativamente reduzido por unidade de investimento. As promessas de geração de empregos devem ser avaliadas com realismo e verificadas ao longo do tempo.
+- Impactos locais frequentemente subestimados: pressão sobre preços de energia e de terrenos, competição por água, ruído, ocupação do solo e sobrecarga da rede elétrica local.
+- Benefícios locais frequentemente não capturados: calor residual desperdiçado, receita tributária erodida por incentivos excessivos, ausência de acesso de instituições locais à capacidade instalada.
+- A aceitação social é condição operacional, não detalhe secundário. Projetos que ignoram comunidades locais enfrentam litígios, atrasos e reversões — o que prejudica o próprio investidor.
+
+Propostas.
+1. Recomendação de consulta pública e participação comunitária nos processos de licenciamento de grandes instalações.
+2. Recomendação de acordos de benefício comunitário: aquecimento distrital subsidiado, formação profissional local, conexão de escolas e serviços públicos, acesso de universidades locais a capacidade computacional.
+3. Cautela quanto a incentivos fiscais em cascata, que podem gerar concorrência predatória entre jurisdições sem retorno público proporcional.
+4. Avaliação obrigatória de impacto cumulativo quando múltiplas instalações se concentram em uma mesma região — lição direta da experiência de Frankfurt.
+
+
+______________________________________________________________________________
+
+
+3.10. Regulamentação internacional de empresas de tecnologia
+------------------------------------------------------------
+
+Posição. A Alemanha defende regras claras, proporcionais, tecnologicamente neutras e aplicáveis de forma não discriminatória a todos os operadores, independentemente de sua nacionalidade ou porte.
+
+Argumentos e propostas.
+- Rejeitar o falso dilema entre "regulamentação" e "inovação". O mercado único europeu demonstra que padrões elevados e comuns ampliam mercados ao eliminar fragmentação normativa.
+- Defender o princípio de "mesma atividade, mesmo risco, mesmas regras", evitando que operadores se subtraiam a obrigações por meio de arbitragem regulatória entre jurisdições.
+- Apoiar transparência algorítmica e auditabilidade proporcionais ao risco.
+- Apoiar mecanismos de responsabilização efetiva, com autoridades nacionais dotadas de poderes de investigação e sanção.
+- Defender tributação justa da economia digital, apoiando os trabalhos multilaterais em curso sobre alocação de direitos de tributação e tributação mínima efetiva.
+- Manter posição de que a regulamentação internacional deve estabelecer princípios e padrões mínimos comuns, deixando a implementação às ordens jurídicas nacionais e regionais — fórmula que amplia a chance de consenso.
+
+
+______________________________________________________________________________
+
+
+3.11. Equilíbrio entre inovação, crescimento e meio ambiente
+------------------------------------------------------------
+
+Posição de encerramento, a ser usada em discursos. A Alemanha é uma economia industrial exportadora que depende de tecnologia avançada para sua prosperidade. Não tem, portanto, interesse algum em frear a inovação. Tem interesse em inovação que sobreviva ao longo prazo — o que significa inovação compatível com os limites físicos do planeta, com os direitos fundamentais das pessoas e com a estabilidade das sociedades democráticas.
+
+A Energiewende alemã ensinou uma lição transferível a este debate: as metas ambiciosas anunciadas com antecedência criam mercados. Quando a Alemanha estabeleceu metas de energia renovável consideradas irrealistas por muitos, a consequência não foi o colapso industrial, mas o surgimento de cadeias produtivas inteiras. A delegação deve argumentar que o mesmo pode ocorrer com a eficiência dos data centers: quem definir os padrões primeiro fabricará as soluções que o mundo comprará.
+
+
+______________________________________________________________________________
+
+
+4. PROPOSTAS PRIORITÁRIAS PARA O DOCUMENTO FINAL
+================================================
+
+Ordem de prioridade para negociação. Os itens 1 a 4 devem ser defendidos com máxima energia; os demais admitem flexibilização em troca de apoio.
+
+1. Indicadores harmonizados obrigatórios de transparência (PUE, WUE, CUE, ERF), com metodologia comum baseada em normas ISO/IEC.
+2. Reafirmação da proteção de dados pessoais como direito fundamental e da aplicabilidade dos direitos humanos ao ambiente digital.
+3. Reafirmação da aplicabilidade do direito internacional ao ciberespaço e compromisso de não atacar infraestrutura civil crítica.
+4. Princípio da adicionalidade renovável para novos data centers de grande porte.
+5. Criação de um Registro Global de Data Centers de caráter voluntário, sob a UIT.
+6. Mecanismo de cooperação técnica e financeira para infraestrutura digital sustentável em países em desenvolvimento, com metas escalonadas.
+7. Recomendação de reaproveitamento de calor residual e de estudos de impacto hídrico e sobre a rede elétrica.
+8. Recomendação de participação comunitária no licenciamento e de acordos de benefício local.
+9. Transparência ambiental do treinamento de modelos de IA de grande escala.
+10. Compromisso com interoperabilidade, portabilidade de dados e padrões abertos em serviços de nuvem.
+
+
+______________________________________________________________________________
+
+
+5. LINHAS VERMELHAS E MARGENS DE CONCESSÃO
+==========================================
+
+Inegociável (a delegação deve votar contra ou abster-se, e registrar reserva formal):
+- Qualquer texto que enfraqueça a proteção de dados pessoais, legitime vigilância em massa ou proponha enfraquecimento deliberado da criptografia.
+- Qualquer legitimação de fragmentação da internet ou de controle estatal do fluxo transfronteiriço de informação sob pretexto de soberania.
+- Qualquer texto que subordine a governança da internet exclusivamente a mecanismos intergovernamentais, em detrimento do modelo multissetorial (governos, setor privado, sociedade civil, comunidade técnica e academia).
+- Retrocesso em relação a compromissos climáticos já assumidos no âmbito do Acordo de Paris.
+- Linguagem que trate a expansão de data centers como intrinsecamente negativa ou que proponha moratórias.
+
+Concessões possíveis, em troca de apoio a itens prioritários:
+- Aceitar caráter voluntário — e não vinculante — dos indicadores, desde que a metodologia seja harmonizada e o reporte, público.
+- Aceitar prazos alongados e metas diferenciadas para países em desenvolvimento e países menos desenvolvidos.
+- Aceitar linguagem mais genérica sobre tributação digital, dado o foro específico já existente para o tema.
+- Aceitar remeter a questões de propriedade intelectual a foros especializados, evitando desgaste nesta conferência.
+- Aceitar substituir "deve" por "deveria" (shall por should) em dispositivos programáticos, se isso viabilizar consenso sobre o núcleo técnico.
+
+
+______________________________________________________________________________
+
+
+6. MAPA DE POSIÇÕES PROVÁVEIS DE OUTRAS DELEGAÇÕES
+==================================================
+
+Convergência esperada (aliados naturais):
+- Estados-membros da União Europeia, em especial França, Países Baixos, Irlanda, Suécia, Dinamarca e Finlândia. Nórdicos têm forte interesse em reaproveitamento de calor e energia limpa; Irlanda e Países Baixos vivenciaram tensões de rede e moratórias locais, e podem ser aliados na agenda de planejamento territorial.
+- Reino Unido, Suíça e Noruega, com posições próximas em eficiência e proteção de dados.
+- Japão e República da Coreia, sensíveis a eficiência energética e resiliência de cadeias de suprimento.
+- Canadá e Nova Zelândia, próximos em direitos digitais.
+- Pequenos Estados Insulares em Desenvolvimento (AOSIS), aliados potenciais na dimensão climática — cultivar ativamente.
+
+Divergência esperada:
+- Delegações que priorizem crescimento sem condicionalidades ambientais e resistam a qualquer indicador obrigatório, argumentando custo de conformidade e barreiras comerciais disfarçadas.
+- Delegações que defendam localização obrigatória de dados e maior controle estatal sobre fluxos informacionais.
+- Grupo dos 77 e China e outros agrupamentos de países em desenvolvimento, que provavelmente condicionarão apoio a padrões ambientais à obtenção de financiamento, transferência de tecnologia e tratamento diferenciado — este é o principal ponto de barganha da conferência, e a Alemanha deve estar preparada para oferecer compromissos concretos, não apenas retóricos.
+
+Recomendação tática. A Alemanha deve construir uma coalizão transversal Norte-Sul em torno do binômio "transparência em troca de financiamento": padrões harmonizados de medição para todos, com apoio técnico e financeiro efetivo para quem precisa cumpri-los. Buscar copatrocínio de emendas com ao menos um Estado africano, um latino-americano e um asiático fortalece decisivamente a legitimidade das propostas alemãs.
+
+
+______________________________________________________________________________
+
+
+7. TRECHOS PRONTOS PARA DISCURSO
+================================
+
+Abertura formal
+
+    "Senhor Presidente, Excelências, Senhoras e Senhores Delegados. A delegação da República Federal da Alemanha saúda a presidência e agradece a convocação desta conferência, cujo tema toca simultaneamente a prosperidade econômica, a proteção do clima, os direitos fundamentais e a segurança internacional. A Alemanha comparece com espírito construtivo e com a convicção de que a expansão da infraestrutura digital global é necessária, desejável e urgente — e de que ela deve ser feita corretamente desde o princípio."
+
+Sobre sustentabilidade
+
+    "A Alemanha não vê contradição entre a expansão digital e a proteção climática. Vemos, sim, uma escolha entre construir hoje uma infraestrutura que precisaremos corrigir amanhã, a custo elevado, ou construí-la desde já sobre bases eficientes e limpas. Minha delegação prefere a segunda opção, e está disposta a compartilhar a experiência e as tecnologias necessárias para que outros também possam escolhê-la."
+
+Sobre soberania digital
+
+    "Soberania digital, para a Alemanha, não significa muros. Significa escolha. Significa que um Estado, uma empresa ou um cidadão possa decidir onde seus dados residem, quem os processa e sob quais regras — e possa mudar essa decisão quando desejar. Por isso defendemos interoperabilidade, portabilidade e padrões abertos, e por isso rejeitamos tanto a dependência excessiva quanto a fragmentação da rede global."
+
+Sobre desigualdade digital
+
+    "É moralmente insustentável que continentes inteiros processem seus próprios dados a milhares de quilômetros de distância, pagando por isso em custo, em latência e em dependência. A Alemanha reconhece esta assimetria e afirma que a resposta não é pedir a esses países que esperem. A resposta é ajudá-los a construir — e a construir limpo."
+
+Sobre inteligência artificial
+
+    "Não há inteligência artificial sem data centers, e não há data centers sem energia, água e território. Discutir uma coisa sem a outra é discutir metade do problema. Minha delegação propõe que este documento final trate a governança da inteligência artificial e a governança da infraestrutura que a sustenta como uma única e indivisível agenda."
+
+Encerramento
+
+    "Senhor Presidente, a Alemanha construiu sua prosperidade sobre a indústria, e sua credibilidade internacional sobre o compromisso de transformar essa indústria sem destruir aquilo de que ela depende. Trazemos essa mesma disposição a esta mesa. Estamos prontos a negociar prazos, a aceitar diferenciações e a contribuir com recursos. Não estamos prontos a negociar a transparência, os direitos fundamentais e o clima. Obrigado."
+
+
+______________________________________________________________________________
+
+
+8. PERGUNTAS DIFÍCEIS E RESPOSTAS SUGERIDAS
+===========================================
+
+"A Alemanha propõe padrões que apenas países ricos conseguem cumprir. Isso não é protecionismo?"
+    Os padrões que propomos são de medição e divulgação, não de proibição. Ninguém é impedido de construir. Além disso, a Alemanha apoia expressamente metas diferenciadas, prazos alongados e apoio financeiro. O que não aceitamos é que a ausência de dados seja tratada como solução — sem medir, ninguém melhora.
+
+"A Alemanha abandonou a energia nuclear e agora tem dificuldades de suprimento. Que autoridade tem para falar de energia?"
+    As escolhas energéticas são soberanas e refletem decisões democráticas nacionais. A Alemanha reconhece que sua transição envolve desafios e custos, e é precisamente essa experiência prática — inclusive de seus erros — que oferecemos compartilhar. Nossa autoridade não vem de perfeição, mas de ter enfrentado o problema antes e por escrito.
+
+"Suas regras de proteção de dados não sufocam a inovação europeia?"
+    A confiança é infraestrutura. O mercado europeu é um dos maiores do mundo justamente porque cidadãos e empresas confiam nele. Além disso, observamos que jurisdições em todos os continentes têm adotado modelos legislativos inspirados no europeu — o que sugere que o problema é menos de sufocamento e mais de precedência.
+
+"Por que a Alemanha, que concentra enorme capacidade em Frankfurt, fala em distribuição geográfica?"
+    Precisamente por isso. A concentração em Frankfurt gerou pressão sobre a rede elétrica, sobre o solo urbano e sobre a aceitação social. Falamos com base em um problema que temos, não em um problema que imaginamos.
+
+
+______________________________________________________________________________
+
+
+9. GLOSSÁRIO OPERACIONAL
+========================
+
+TERMO   SIGNIFICADO
+
+PUE (Power Usage Effectiveness): Razão entre a energia total consumida pela instalação e a energia consumida pelos equipamentos de TI. Quanto mais próximo de 1,0, mais eficiente.
+
+WUE (Water Usage Effectiveness): Litros de água consumidos por quilowatt-hora de energia de TI.
+
+CUE (Carbon Usage Effectiveness): Emissões de CO₂ equivalente por unidade de energia de TI.
+
+ERF (Energy Reuse Factor): Proporção da energia reaproveitada, tipicamente sob forma de calor.
+
+Free cooling: Refrigeração por ar exterior, sem sistemas mecânicos, viável em climas frios.
+
+Energiewende: Transição energética alemã: substituição de fontes fósseis e nucleares por renováveis.
+
+EnEfG: Lei alemã de Eficiência Energética (2023), com obrigações específicas para data centers.
+
+DE-CIX: Ponto de troca de tráfego de internet sediado em Frankfurt, um dos maiores do mundo.
+
+Gaia-X: Iniciativa europeia de infraestrutura de dados federada, interoperável e soberana.
+
+EuroHPC: Empresa comum europeia para computação de alto desempenho.
+
+BSI: Autoridade Federal alemã de Segurança da Tecnologia da Informação.
+
+NIS2: Diretiva europeia sobre segurança de redes e sistemas de informação.
+
+AI Act: Regulamento europeu de inteligência artificial, baseado em níveis de risco.
+
+Pacto Digital Global: Instrumento adotado pela ONU em 2024, no âmbito do Pacto para o Futuro.
+
+WSIS: Cúpula Mundial sobre a Sociedade da Informação, com processo de revisão em curso.
+
+Global Gateway: Estratégia europeia de investimento em infraestrutura em países parceiros.
+
+
+______________________________________________________________________________
+
+
+10. NOTA FINAL À DELEGAÇÃO
+==========================
+
+Três recomendações de conduta durante a conferência:
+
+1. Nunca aparecer como obstáculo. Sempre que a Alemanha apresentar uma exigência, deve apresentar simultaneamente uma contribuição — técnica, financeira ou de capacitação. A fórmula é: "nós pedimos X, e oferecemos Y para viabilizá-lo".
+2. Cultivar o Sul global desde o primeiro dia. As reuniões informais de corredor valem mais que os discursos de plenário. Buscar copatrocínios cruzados.
+3. Manter separadas as duas linguagens. Em plenário, linguagem principista e climática. Em grupos de redação, linguagem técnica e precisa. A eficácia negociadora está no segundo registro.
+
+
+______________________________________________________________________________
+
+
+Documento preparado como material interno de consulta. Os dados quantitativos citados são de ordem de grandeza e devem ser atualizados junto às fontes oficiais mais recentes antes de citação em plenário.

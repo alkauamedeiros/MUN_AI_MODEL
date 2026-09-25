@@ -1,0 +1,80 @@
+2026-09-24 18:31:32 [DEBUG] [speaker]: Carregando o modelo Kokoro com as configurações (lang_code='p', repo_id='hexgrad/Kokoro-82M').
+2026-09-24 18:31:33 [DEBUG] [speaker]: O modelo Kokoro foi carregado em 1.20s.
+2026-09-24 18:31:33 [INFO] [__main__]: ==========================================
+2026-09-24 18:31:33 [INFO] [__main__]: Iniciando a pipeline do modelo.
+2026-09-24 18:31:33 [INFO] [__main__]: ==========================================
+2026-09-24 18:31:33 [INFO] [__main__]: Criando matriz de dados.
+2026-09-24 18:31:33 [INFO] [__main__]: Alocando o transcritor de áudio na GPU (Whisper)...
+2026-09-24 18:31:33 [INFO] [transcriber]: Carregando modelo Whisper 'medium' no dispositivo 'cuda' (float16).
+2026-09-24 18:31:34 [INFO] [transcriber]: Modelo Whisper carregado com sucesso em 0.86s.
+2026-09-24 18:31:34 [INFO] [__main__]: Transcritor carregado na GPU em 0.86s.
+2026-09-24 18:31:34 [INFO] [display]: Iniciando thread dedicada da interface gráfica.
+2026-09-24 18:31:34 [INFO] [display]: Inicializando janela Tkinter da interface gráfica...
+2026-09-24 18:31:34 [DEBUG] [display]: Sinalizador de estado 'ouvindo' enviado para a fila da interface.
+2026-09-24 18:31:34 [INFO] [transcriber]: Iniciando transcrição ao vivo.
+2026-09-24 18:31:34 [INFO] [transcriber]: Thread de gravação em segundo plano iniciada.
+2026-09-24 18:31:34 [INFO] [transcriber]: Processo de gravação em segundo plano iniciado.
+2026-09-24 18:31:34 [INFO] [display]: Interface gráfica alterada para o estado: OUVINDO
+2026-09-24 18:31:34 [INFO] [display]: Loop principal da interface gráfica (Tkinter) iniciado.
+2026-09-24 18:31:44 [INFO] [transcriber]: Silêncio de detectado. Enviando bloco para transcrição.
+2026-09-24 18:31:44 [INFO] [transcriber]: Transcrição de 49 caracteres concluída em 0.35s. | Texto: ""Sou representante da Inglaterra e acredito que...""
+2026-09-24 18:31:44 [DEBUG] [transcriber]: Texto completo da transcrição: "Sou representante da Inglaterra e acredito que..."
+2026-09-24 18:31:58 [INFO] [transcriber]: Silêncio de detectado. Enviando bloco para transcrição.
+2026-09-24 18:31:58 [INFO] [transcriber]: Transcrição de 103 caracteres concluída em 0.30s. | Texto: ""As medidas protecionistas da França atrapalham muito o desenvolvimento das matrizes energéticas verdes.""
+2026-09-24 18:31:58 [DEBUG] [transcriber]: Texto completo da transcrição: "As medidas protecionistas da França atrapalham muito o desenvolvimento das matrizes energéticas verdes."
+2026-09-24 18:32:00 [INFO] [display]: Barra de espaço pressionada na janela do display.
+2026-09-24 18:32:00 [INFO] [__main__]: [FIM DE FALA DETECTADO] Interrupção manual via barra de espaço. Processando discurso completo...
+2026-09-24 18:32:00 [INFO] [separator]: Iniciando processo de inserção de dados na matriz de dados.
+2026-09-24 18:32:04 [DEBUG] [separator]: O RAG realizou a instrução em 3.21s.
+2026-09-24 18:32:04 [DEBUG] [separator]: A decisão do RAG foi: "INGLATERRA; FRANÇA"
+2026-09-24 18:32:04 [INFO] [separator]: O corretor realizou a instrução em 0.30s.
+2026-09-24 18:32:04 [INFO] [separator]: O corretor deu essa resposta: "INGLATERRA; FRANCA"
+2026-09-24 18:32:04 [INFO] [separator]: Inserção na matriz na posição (INGLATERRA,INGLATERRA).
+2026-09-24 18:32:04 [INFO] [separator]: Inserção na matriz na posição (INGLATERRA,FRANCA).
+2026-09-24 18:32:04 [INFO] [separator]: Inserção do discurso na matriz de dados concluída após 3.57s.
+2026-09-24 18:32:04 [INFO] [separator]: Iniciando processo de identificação da ativação do agente.
+2026-09-24 18:32:04 [INFO] [separator]: A resposta (decisão) da IA foi gerada em 0.29s | A decisão foi: "NO ACTIVATION"
+2026-09-24 18:32:04 [INFO] [separator]: Não foi detectada uma ativação do Agente.
+2026-09-24 18:32:04 [WARNING] [__main__]: A geração da resposta da IA retornou vazia. Pulando etapa de fala.
+2026-09-24 18:32:04 [INFO] [__main__]: Ciclo de resposta completo processado em 3.86s.
+2026-09-24 18:32:20 [INFO] [transcriber]: Silêncio de detectado. Enviando bloco para transcrição.
+2026-09-24 18:32:20 [INFO] [transcriber]: Transcrição de 80 caracteres concluída em 0.25s. | Texto: ""Agora o agente artificial da Inglaterra deverá fazer uma pergunta para a França.""
+2026-09-24 18:32:20 [DEBUG] [transcriber]: Texto completo da transcrição: "Agora o agente artificial da Inglaterra deverá fazer uma pergunta para a França."
+2026-09-24 18:32:20 [INFO] [__main__]: [FIM DE FALA DETECTADO] Processando discurso completo...
+2026-09-24 18:32:20 [INFO] [separator]: Iniciando processo de inserção de dados na matriz de dados.
+2026-09-24 18:32:21 [DEBUG] [separator]: O RAG realizou a instrução em 0.37s.
+2026-09-24 18:32:21 [DEBUG] [separator]: A decisão do RAG foi: "INGLATERRA; FRANÇA"
+2026-09-24 18:32:21 [INFO] [separator]: O corretor realizou a instrução em 0.20s.
+2026-09-24 18:32:21 [INFO] [separator]: O corretor deu essa resposta: "INGLATERRA; FRANCA"
+2026-09-24 18:32:21 [INFO] [separator]: Inserção na matriz na posição (INGLATERRA,INGLATERRA).
+2026-09-24 18:32:21 [INFO] [separator]: Inserção na matriz na posição (INGLATERRA,FRANCA).
+2026-09-24 18:32:21 [INFO] [separator]: Inserção do discurso na matriz de dados concluída após 0.64s.
+2026-09-24 18:32:21 [INFO] [separator]: Iniciando processo de identificação da ativação do agente.
+2026-09-24 18:32:21 [INFO] [separator]: A resposta (decisão) da IA foi gerada em 0.38s | A decisão foi: "!START INGLATERRA FRANCA"
+2026-09-24 18:32:21 [INFO] [separator]: Foi detectada uma ativação do Agente.
+2026-09-24 18:32:21 [INFO] [language]: Iniciando geração de discurso para autor='INGLATERRA' -> receiver='FRANCA'.
+2026-09-24 18:32:21 [WARNING] [language]: O contexto do país 'INGLATERRA' não foi encontrado. Prosseguindo sem ele.
+2026-09-24 18:32:21 [INFO] [language]: Enviando a requisição de geração de discurso para o modelo Qwen
+2026-09-24 18:32:24 [INFO] [language]: Discurso gerado em 2.65s | Texto: "Sou representante da Inglaterra e gostaria de fazer uma pergunta à delegação da França: embora reconheçamos o compromisso retórico do seu governo com ..." [Total: 1009 chars]...
+2026-09-24 18:32:24 [DEBUG] [language]: Discurso completo gerado: Sou representante da Inglaterra e gostaria de fazer uma pergunta à delegação da França: embora reconheçamos o compromisso retórico do seu governo com as metas climáticas globais, observamos que a recente introdução de tarifas elevadas sobre painéis solares importados e componentes de baterias cria uma barreira artificial que desacelera justamente a transição energética que vocês prometem liderar. Como um país cuja matriz elétrica depende fortemente da nuclear e do gás natural, não podemos aceitar que a proteção industrial nacional seja utilizada como pretexto para manter preços elevados de energia para consumidores finais enquanto se alega urgência climática; dado que esses custos adicionais reduzem a viabilidade econômica dos projetos renováveis em nossos países vizinhos, qual é o mecanismo concreto que a França propõe para harmonizar suas políticas protecionistas com os princípios de livre comércio e cooperação tecnológica essenciais para reduzir as emissões globais antes do fim desta década?
+2026-09-24 18:32:24 [INFO] [__main__]: Microfone pausado para a fala da IA.
+2026-09-24 18:32:24 [INFO] [transcriber]: Gravação em segundo plano pausada.
+2026-09-24 18:32:24 [INFO] [speaker]: Iniciando a criação do áudio.
+2026-09-24 18:32:24 [WARNING] [huggingface_hub.utils._http]: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-09-24 18:32:25 [INFO] [speaker]: Áudio produzido com sucesso em 0.69s | Salvo em: '../audios/fala_ia1.wav'
+2026-09-24 18:32:25 [DEBUG] [display]: Sinalizador de estado 'falando' (País: 'INGLATERRA') enviado para a fila da interface.
+2026-09-24 18:32:25 [INFO] [display]: Interface gráfica alterada para o estado: FALANDO
+2026-09-24 18:32:25 [DEBUG] [display]: Imagem da bandeira adicionada ao cache: '../flags/INGLATERRA.png'
+2026-09-24 18:32:46 [INFO] [speaker]: Reprodução do áudio interrompida pelo usuário.
+2026-09-24 18:32:46 [INFO] [speaker]: Reprodução do áudio finalizada após 20.99s.
+2026-09-24 18:32:46 [DEBUG] [display]: Sinalizador de estado 'ouvindo' enviado para a fila da interface.
+2026-09-24 18:32:46 [INFO] [transcriber]: Gravação em segundo plano retomada.
+2026-09-24 18:32:46 [INFO] [__main__]: Microfone liberado.
+2026-09-24 18:32:46 [INFO] [__main__]: Ciclo de resposta completo processado em 25.36s.
+2026-09-24 18:32:46 [INFO] [display]: Interface gráfica alterada para o estado: OUVINDO
+2026-09-24 18:32:48 [INFO] [__main__]: A gravação foi interrompida pelo usuário.
+2026-09-24 18:32:48 [INFO] [__main__]: Matriz de dados fechada com sucesso.
+2026-09-24 18:32:48 [INFO] [__main__]: Sistema finalizado. Tempo total: 75.33s.
+2026-09-24 18:32:48 [INFO] [__main__]: Aplicação finalizada.
+2026-09-24 18:32:48 [WARNING] [transcriber]: Fluxo de áudio do 'parecord' retornou vazio. Encerrando gravação
+2026-09-24 18:32:48 [INFO] [transcriber]: Thread de gravação em segundo plano finalizada.

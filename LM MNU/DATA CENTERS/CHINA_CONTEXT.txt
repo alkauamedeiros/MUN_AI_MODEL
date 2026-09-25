@@ -1,0 +1,142 @@
+REPÚBLICA POPULAR DA CHINA • PODER JUDICIÁRIO
+DOSSIÊ E ANOTAÇÕES ESTRATÉGICAS DE BENCH (BENCH MEMO)
+Conferência das Nações Unidas — Comissão UNCTAD (Sala 212)
+Tema: A Arquitetura da Economia Digital: Marcos Regulatórios e Investimentos Estrangeiros em Data Centers
+
+--------------------------------------------------------------------------------
+METADADOS DO DOCUMENTO:
+• AUTORIDADE: Excelentíssimo(a) Senhor(a) Desembargador(a) / Membro de Colegiado Julgador da Suprema Corte Popular da República Popular da China
+• DELEGAÇÃO: Missão Permanente da República Popular da China junto às Nações Unidas
+• NATUREZA: Anotações reservadas de bench, posicionamento jurisdicional e linhas diplomáticas — texto-base destinado a alimentar o agente de Inteligência Artificial da delegação e a servir de subsídio ao Documento de Posição Oficial (DPO)
+• EIXOS DE ATUAÇÃO: Soberania Jurisdicional e Ciber-soberania; Investimento Estrangeiro em Data Centers; Governança Multilateral da Economia Digital e da IA; Comércio Digital na OMC; Questão Palestina; Avaliação Científica
+--------------------------------------------------------------------------------
+
+1. PREÂMBULO E MARCO HERMENÊUTICO-JURÍDICO
+
+A República Popular da China comparece a esta comissão como membro fundador da ONU, membro permanente do Conselho de Segurança e segunda maior economia do mundo. Sua atuação multilateral funda-se nos Cinco Princípios de Coexistência Pacífica e num sistema de Estado de Direito socialista com características chinesas, no qual a soberania jurisdicional — sobre o território, os dados e as decisões econômicas internas — é tratada como pré-condição, e não obstáculo, à cooperação internacional.
+
+Em 1º de setembro de 2025, por ocasião do 80º aniversário da ONU, o Ministério das Relações Exteriores chinês publicou o documento conceitual da Iniciativa de Governança Global (GGI), assentada em três pilares centrais que devem orientar qualquer intervenção desta delegação: (i) igualdade soberana — todos os Estados, independentemente de tamanho, força ou riqueza, participam e decidem em pé de igualdade; (ii) primazia do direito internacional — a Carta da ONU deve ser aplicada de modo uniforme, sem duplo critério nem imposição das regras domésticas de poucos países sobre os demais; (iii) multilateralismo genuíno, com a ONU como núcleo do sistema internacional. Dias antes, na Cúpula da Organização de Cooperação de Xangai em Tianjin (31/08–01/09/2025), o Chefe de Estado chinês reafirmou pessoalmente esses três pontos perante mais de vinte líderes estrangeiros, acrescentando a rejeição inequívoca ao hegemonismo e à política de força.
+
+DIRETRIZ SUPREMA DE ATUAÇÃO NA COMISSÃO:
+"A soberania jurisdicional sobre dados, tecnologia e investimento não é obstáculo à cooperação internacional, mas a garantia jurídica que torna essa cooperação equitativa entre nações desiguais em poder, porém iguais em soberania."
+
+
+2. EIXO I: SOBERANIA JURISDICIONAL, CIBER-SOBERANIA E JURISDIÇÃO EXTRATERRITORIAL INDEVIDA
+
+Em 2015, na World Internet Conference, o Chefe de Estado chinês formulou o conceito de "ciber-soberania": o direito de cada nação desenvolver e regular livremente sua própria internet, como extensão da soberania territorial para o ciberespaço — jurisdição, autodefesa, independência e igualdade entre países. O conceito encontra amparo em relatório da Assembleia Geral da ONU de 2013 (Documento A/68/98), que já reconhecia a extensão da soberania nacional às atividades de tecnologias de informação e comunicação praticadas em território nacional.
+
+Esse princípio ganhou reforço normativo concreto em 7 de abril de 2026, quando o Conselho de Estado, sob assinatura do Premier, promulgou o "Regulamento da República Popular da China sobre o Combate à Jurisdição Extraterritorial Indevida por Países Estrangeiros", criando mecanismo institucional para identificar, bloquear e responder a medidas estrangeiras consideradas violações do direito internacional — resposta direta a práticas como a aplicação, por autoridades de outro país, de sua legislação penal doméstica (a exemplo do Computer Fraud and Abuse Act) sobre entidades chinesas pelo simples fato de terem interagido com plataformas ou infraestrutura estrangeira.
+
+Posição de bench: qualquer pretensão jurisdicional de um Estado sobre dados, empresas ou cidadãos chineses fundada apenas no uso de infraestrutura estrangeira constitui "jurisdição de longo alcance" (long-arm jurisdiction) e deve ser rejeitada como violação da igualdade soberana consagrada na Carta da ONU. A China exige de terceiros o mesmo respeito à jurisdição doméstica que pratica ao regular, dentro de seu território, os dados e a infraestrutura sob sua responsabilidade.
+
+
+3. EIXO II: INVESTIMENTO ESTRANGEIRO EM DATA CENTERS — ABERTURA INSTITUCIONAL COM REVISÃO DE SEGURANÇA
+
+O 15º Plano Quinquenal (2026-2030) substitui a competição predatória entre governos locais por incentivos fiscais (marca do 14º Plano) por uma abordagem que combina abertura institucional — alinhamento a regras econômicas internacionais de alto padrão — com governança de risco em dados, IA e plataformas digitais, sob o princípio de equilíbrio entre desenvolvimento e segurança. Isso ocorre em um cenário no qual o influxo de IED caiu pelo terceiro ano consecutivo (-9,5%), refletindo tensões geopolíticas e maior percepção regulatória por parte de investidores.
+
+Em junho de 2026, o Conselho de Estado publicou marco regulatório abrangente sobre investimento, tecnologia, dados e transferência de talentos no exterior, um mês após a reversão determinada da aquisição da startup de IA Manus pela Meta — caso em que algoritmos centrais de IA e grandes volumes de dados de usuários foram classificados como tecnologia de exportação restrita, mesmo com a controladora sediada formalmente em Cingapura.
+
+Posição de bench: investimento estrangeiro em data centers é bem-vindo dentro de uma moldura de abertura institucional regulada, submetida a revisão de segurança nacional proporcional — prática que qualquer Estado soberano exerce sobre infraestrutura crítica, e que não deve ser confundida com fechamento de mercado.
+
+
+4. EIXO III: A ROTA DA SEDA DIGITAL — COOPERAÇÃO EM INFRAESTRUTURA DE DADOS COM O SUL GLOBAL
+
+Desde 2015, a Rota da Seda Digital — braço tecnológico da Iniciativa Cinturão e Rota — mobilizou mais de US$ 17 bilhões em comércio eletrônico, pagamentos móveis, cabos de fibra óptica, cidades inteligentes e data centers em países em desenvolvimento, com mais de US$ 7 bilhões em infraestrutura de telecomunicações. Em 2026, o Silk Road Fund amplia investimentos em data centers em mercados como o Brasil, integrando-os a energia renovável e armazenamento — sinal da visão chinesa de que infraestrutura digital e energética formam um único ecossistema estratégico.
+
+Posição de bench: o investimento chinês em infraestrutura alheia é cooperação Sul-Sul de benefício mútuo, sem condicionalidades políticas — distinta, portanto, do investimento estrangeiro que a própria China submete a revisão de segurança nacional. A diferença não está em "abrir ou fechar" o mercado, mas na natureza do ativo: infraestrutura produtiva que amplia a capacidade autônoma do país receptor é bem-vinda em qualquer direção; processamento de dados sensíveis e algoritmos estratégicos exige escrutínio soberano em qualquer direção — inclusive, reciprocamente, quando a China é o país receptor de tais fluxos.
+
+
+5. EIXO IV: AUTOSSUFICIÊNCIA COMPUTACIONAL — RESPOSTA DEFENSIVA, NÃO PROTECIONISMO
+
+A China anunciou aporte de aproximadamente 2 trilhões de yuans (US$ 295 bilhões) em cinco anos para uma rede nacional de centros de computação, sob a Comissão Nacional de Desenvolvimento e Reforma, visando reduzir a dependência de fornecedores estrangeiros de semicondutores como Nvidia e AMD. Na Conferência Mundial de Inteligência Artificial de 2025, o Premier chinês descreveu publicamente essa necessidade como resposta a "gargalos" concretos — a exemplo da falta de acesso a chips de computação de ponta e das restrições ao intercâmbio de empresas e talentos impostas por terceiros países.
+
+Posição de bench: a busca por autossuficiência tecnológica é reativa, não ofensiva — o mercado chinês permanece nominalmente aberto a fornecedores estrangeiros; é o lado da oferta (regimes estrangeiros de licenciamento de exportação) que se fechou. Nenhum país deve ter seu desenvolvimento tecnológico condicionado à boa vontade de fornecedores protegidos por controles de exportação politicamente motivados.
+
+
+6. EIXO V: GOVERNANÇA MULTILATERAL DA ECONOMIA DIGITAL E DA IA — PROPOSTAS CHINESAS
+
+A China tem atuado como formuladora de regras, não apenas usuária do sistema digital global. Marcos recentes, todos anunciados em conferências internacionais:
+
+• Iniciativa Global de Segurança de Dados (2020) — resposta ao "Clean Network Program" dos EUA.
+• Declaração de Xangai sobre Governança Global da IA (Conferência Mundial de IA 2024) e resolução da Assembleia Geral da ONU sobre cooperação internacional em capacitação de IA, promovida pela China e adotada por consenso.
+• Na Cúpula do G20 (Rio de Janeiro, novembro de 2024), o Chefe de Estado chinês defendeu o fortalecimento da Reunião de Ministros da Economia Digital do G20 e alertou que a IA não pode ser "um jogo de países e indivíduos ricos".
+• Plano de Ação Global para Governança da IA (Conferência Mundial de IA 2025) — roteiro de 13 pontos, com proposta chinesa de criação de uma organização mundial de cooperação em IA.
+• Organização Mundial de Cooperação em Inteligência Artificial (WAICO) — fundada em Xangai em 16-17 de julho de 2026, já com 29 países signatários (Brasil entre eles). No discurso de abertura da Conferência Mundial de IA de 2026, o Chefe de Estado chinês apresentou quatro diretrizes: cooperação internacional ampla para fechar a lacuna digital e de IA do Sul Global e evitar uma "nova injustiça histórica"; segurança tecnológica; respeito à diversidade das civilizações; e multilateralismo genuíno, com reconhecimento do papel central da ONU.
+• Organização Mundial de Dados (WDO) — lançada em Pequim em 30 de março de 2026.
+
+Posição de bench sobre a aparente contradição entre "criticar blocos" e "criar instituições próprias": a distinção não está em existir ou não uma nova instituição, mas em seu caráter excludente ou aberto. Coalizões formadas para conter ou isolar concorrentes (controles coordenados de exportação de chips, Clean Network Program) são blocos no sentido pejorativo; a WAICO e a WDO são coalizões voluntárias e abertas a qualquer Estado — a WAICO já reúne 29 países de perfis distintos — e se apresentam explicitamente como complementares, não substitutas, da ONU. O desenvolvimento tecnológico, nas palavras da própria liderança chinesa, não deve ser uma apresentação solo de um único país, mas um esforço coletivo de cooperação internacional.
+
+
+7. EIXO VI: COMÉRCIO DIGITAL NA OMC — ESPAÇO REGULATÓRIO, NÃO PRIVILÉGIO PRÓPRIO
+
+A 14ª Conferência Ministerial da OMC (Yaoundé, março de 2026) terminou sem consenso sobre a renovação da moratória de tarifas sobre transmissões eletrônicas (vigente desde 1998), deixando-a temporariamente sem efeito. Estados Unidos e parceiros defenderam torná-la permanente ou estendê-la até 2030-2031; Índia, África do Sul e outros grandes mercados em desenvolvimento resistiram, citando estudos da própria UNCTAD sobre perda de receita fiscal e de espaço regulatório.
+
+Em setembro de 2025, a China renunciou unilateralmente a reivindicar tratamento especial e diferenciado como país em desenvolvimento em negociações na OMC, no contexto de diálogos comerciais mais amplos com os Estados Unidos. Isso não deve ser lido como recuo na defesa do espaço regulatório digital dos países em desenvolvimento: tratou-se de gesto unilateral de boa-fé em uma negociação bilateral específica, não de abandono do princípio sistêmico de igualdade soberana (pilar I da GGI) que a China defende para terceiros países no plano multilateral. A posição de bench, portanto, não é "a China merece tratamento especial", mas "nenhum país em desenvolvimento deve ser forçado, por regras negociadas de forma plurilateral e exclusiva (como as JSI de comércio eletrônico), a abrir mão de espaço fiscal e regulatório sem participar da decisão".
+
+A resolução-modelo do ECOSOC de outubro de 2025 sobre políticas tarifárias — que adverte contra o uso de tarifas como instrumento de pressão política e propõe fórum anual de acompanhamento sob a ONU — é citada como precedente institucional a ser expandido ao comércio digital e aos fluxos de dados.
+
+
+8. PONTOS DE TENSÃO APARENTE E LINHAS DE DEFESA PREPARADAS
+
+Para antecipar questionamentos de delegações rivais ou da mesa, seguem as quatro tensões mais prováveis e a resposta already incorporada aos eixos acima:
+
+a) "Revisão de segurança para investimento estrangeiro que chega à China, mas expansão livre do investimento chinês no exterior" → Eixo III: distinção entre infraestrutura produtiva (bem-vinda em qualquer direção) e processamento de dados/algoritmos estratégicos (sujeito a escrutínio soberano em qualquer direção).
+b) "China renunciou a tratamento especial na OMC, mas defende espaço regulatório para países em desenvolvimento" → Eixo VI: gesto bilateral pontual não equivale a recuo do princípio sistêmico de igualdade soberana.
+c) "China critica blocos tecnológicos, mas cria os seus próprios (WDO, WAICO, GDSI)" → Eixo V: distinção entre coalizões excludentes e coalizões abertas, complementares à ONU.
+d) "Busca por autossuficiência em chips soa como protecionismo, mesmo criticando o protecionismo alheio" → Eixo IV: resposta defensiva a restrições de oferta impostas por terceiros, não fechamento da própria demanda.
+
+
+9. EIXO VII: QUESTÃO PALESTINA (EIXO TRANSVERSAL EXIGIDO)
+
+A posição chinesa sustenta, desde a proposta de cinco pontos apresentada na Presidência do Conselho de Segurança: cessar-fogo abrangente e fim dos combates; proteção efetiva a civis; corredores humanitários seguros e desimpedidos; prevenção da expansão do conflito; e, como saída estrutural, a solução de dois Estados. Em abril de 2026, o embaixador chinês junto à ONU cobrou publicamente que Israel cumprisse integralmente o cessar-fogo em vigor desde outubro de 2025, encerrasse assentamentos na Cisjordânia e garantisse acesso humanitário irrestrito a Gaza. A China já vetou, ao lado da Rússia, projeto de resolução considerado insuficiente na exigência de cessar-fogo imediato.
+
+Posição de bench: reafirmar a responsabilidade primária do Conselho de Segurança pela paz e segurança internacionais, sem duplo critério — aplicação direta do pilar II da Iniciativa de Governança Global (primazia do direito internacional).
+
+
+10. EIXO VIII: CIÊNCIA, AVALIAÇÃO ACADÊMICA E O MOVIMENTO "SLOW DOWN IN SCIENCE"
+
+A China lidera hoje a produção científica mundial: mais de 15 mil artigos nas 163 revistas mais influentes do planeta, 76 periódicos chineses entre os 5% mais bem colocados globalmente (WJCI 2025). Desde 2020, reformou seus critérios de avaliação acadêmica para reduzir a ênfase no número bruto de publicações em favor de qualidade e aplicação prática, combatendo o "publish or perish" e endurecendo punições contra má conduta científica.
+
+Posição de bench: simpatia parcial ao movimento — métricas centradas em volume distorcem incentivos, e a reforma chinesa de 2020 é exemplo replicável. Oposição firme, porém, a qualquer norma que funcione como novo obstáculo ao avanço científico de potências emergentes e do Sul Global, o que consolidaria a vantagem histórica dos sistemas de pesquisa do Norte — a mesma "nova injustiça histórica" que a liderança chinesa alertou não dever se repetir no campo da IA (Conferência Mundial de IA, Xangai, julho de 2026), agora aplicada ao campo da produção científica.
+
+
+11. TABELA-SÍNTESE — POSICIONAMENTO CHINÊS POR DIMENSÃO REGULATÓRIA
+
++----------------------------+---------------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Dimensão                   | Diagnóstico Crítico da Delegação Chinesa           | Posição Estratégica da China                                                                       |
++----------------------------+---------------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Jurisdição sobre Dados     | Jurisdição de longo alcance de terceiros países    | Combater juridicamente a aplicação extraterritorial indevida de leis estrangeiras a entidades      |
+|                             | sobre entidades e dados chineses.                  | chinesas (Regulamento de abril/2026); exigir reciprocidade de tratamento.                          |
++----------------------------+---------------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Investimento em Data       | Discurso de "livre investimento" ignora riscos de  | Apoiar IED em data centers sob revisão de segurança proporcional e transparente; investir sem      |
+| Centers                    | segurança; investimento sem condicionalidades.     | condicionalidades políticas no exterior.                                                            |
++----------------------------+---------------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Controles de Exportação    | Restrições unilaterais a chips e IA fragmentam o   | Condenar controles usados como pressão política; buscar autossuficiência como resposta             |
+| de Tecnologia              | comércio digital global.                           | defensiva, não como fechamento da própria demanda.                                                  |
++----------------------------+---------------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Comércio Digital na OMC    | Moratória permanente beneficia big techs de        | Defender renovação multilateral com prazo definido; sustentar espaço regulatório de terceiros      |
+|                             | poucos países.                                     | países em desenvolvimento, sem reivindicar privilégio próprio.                                      |
++----------------------------+---------------------------------------------------+---------------------------------------------------------------------------------------------------+
+| Governança Global de Dados | Fragmentação em blocos regulatórios rivais         | Propor coalizões abertas e complementares à ONU (WAICO, WDO, GDSI), distintas de blocos             |
+| e IA                       | prejudica países pequenos.                         | excludentes formados para conter concorrentes.                                                      |
++----------------------------+---------------------------------------------------+---------------------------------------------------------------------------------------------------+
+
+
+12. GUIA RÁPIDO PARA DEBATES NA UNCTAD — DECÁLOGO DE INTERVENÇÃO
+
+1. Defender a soberania jurisdicional sobre dados e infraestrutura digital como pré-condição para que o investimento estrangeiro gere desenvolvimento genuíno.
+2. Invocar o Regulamento de abril/2026 contra jurisdição extraterritorial indevida sempre que outra delegação propuser regras de acesso a dados baseadas em jurisdição estrangeira.
+3. Apresentar a Rota da Seda Digital como cooperação Sul-Sul sem condicionalidades, antecipando-se à crítica sobre a assimetria com a revisão de segurança doméstica (linha de defesa do Eixo III).
+4. Buscar convergência com Brasil, Índia, África do Sul, Egito e Colômbia sobre espaço regulatório digital para países em desenvolvimento, deixando claro que não se trata de privilégio próprio da China.
+5. Condenar controles unilaterais de exportação de tecnologia como medida que fragmenta a economia digital global.
+6. Propor a extensão do fórum anual de acompanhamento multilateral (precedente da resolução ECOSOC de 2025 sobre tarifas) ao monitoramento de fluxos de dados e investimentos em data centers.
+7. Citar WAICO, WDO e GDSI como contribuições concretas ao multilateralismo digital, sempre reforçando seu caráter aberto e complementar à ONU — nunca como bloco alternativo.
+8. Evitar isolamento: buscar linguagem de compromisso nas cláusulas operativas do projeto de resolução, sem abrir mão de soberania de dados e revisão de segurança.
+9. Em temas correlatos (Israel-Palestina, avaliação científica), manter coerência com os Eixos VII e VIII, sempre ancorada nos pilares da Iniciativa de Governança Global.
+10. Caso confrontado com qualquer das quatro tensões do item 8, responder com a linha de defesa já preparada — nunca improvisar uma justificativa nova em plenário.
+
+--------------------------------------------------------------------------------
+DOCUMENTO COMPILADO PARA USO EXCLUSIVO DA DELEGAÇÃO DA CHINA — UNCTAD.
+III IMPA Tech Model United Nations, Sala 212.
+Pequim / Nova York, 2026.
+--------------------------------------------------------------------------------

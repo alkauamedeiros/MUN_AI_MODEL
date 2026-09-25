@@ -1,0 +1,25 @@
+2026-09-25 13:56:27 [DEBUG] [speaker]: Carregando o modelo Kokoro com as configurações (lang_code='p', repo_id='hexgrad/Kokoro-82M').
+2026-09-25 13:56:29 [WARNING] [huggingface_hub.utils._http]: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-09-25 13:56:29 [DEBUG] [speaker]: O modelo Kokoro foi carregado em 1.80s.
+2026-09-25 13:56:29 [INFO] [__main__]: ==========================================
+2026-09-25 13:56:29 [INFO] [__main__]: Iniciando a pipeline do modelo.
+2026-09-25 13:56:29 [INFO] [__main__]: ==========================================
+2026-09-25 13:56:29 [INFO] [__main__]: Criando matriz de dados.
+2026-09-25 13:56:29 [INFO] [__main__]: Alocando o transcritor de áudio na GPU (Whisper)...
+2026-09-25 13:56:29 [INFO] [transcriber]: Carregando modelo Whisper 'medium' no dispositivo 'cuda' (float16).
+2026-09-25 13:56:30 [INFO] [transcriber]: Modelo Whisper carregado com sucesso em 1.02s.
+2026-09-25 13:56:30 [INFO] [__main__]: Transcritor carregado na GPU em 1.02s.
+2026-09-25 13:56:30 [INFO] [display]: Iniciando thread dedicada da interface gráfica.
+2026-09-25 13:56:30 [INFO] [display]: Inicializando janela Tkinter da interface gráfica...
+2026-09-25 13:56:30 [DEBUG] [display]: Sinalizador de estado 'ouvindo' enviado para a fila da interface.
+2026-09-25 13:56:30 [INFO] [transcriber]: Iniciando transcrição ao vivo.
+2026-09-25 13:56:30 [INFO] [transcriber]: Thread de gravação em segundo plano iniciada.
+2026-09-25 13:56:30 [INFO] [transcriber]: Processo de gravação em segundo plano iniciado.
+2026-09-25 13:56:30 [INFO] [display]: Interface gráfica alterada para o estado: OUVINDO
+2026-09-25 13:56:30 [INFO] [display]: Loop principal da interface gráfica (Tkinter) iniciado.
+2026-09-25 13:56:42 [INFO] [__main__]: A gravação foi interrompida pelo usuário.
+2026-09-25 13:56:42 [INFO] [__main__]: Matriz de dados fechada com sucesso.
+2026-09-25 13:56:42 [INFO] [__main__]: Sistema finalizado. Tempo total: 13.13s.
+2026-09-25 13:56:42 [INFO] [__main__]: Aplicação finalizada.
+2026-09-25 13:56:42 [WARNING] [transcriber]: Fluxo de áudio do 'parecord' retornou vazio. Encerrando gravação
+2026-09-25 13:56:42 [INFO] [transcriber]: Thread de gravação em segundo plano finalizada.
