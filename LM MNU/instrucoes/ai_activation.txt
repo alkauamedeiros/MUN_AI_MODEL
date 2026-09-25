@@ -23,3 +23,12 @@ Resposta: !START ARABIA_SAUDITA INGLATERRA
 
 Texto: O uso de inteligência artificial da França afeta em muito os demais países europeus, como a Inglaterra.
 Resposta: NO ACTIVATION
+
+Texto: Eu, do Reino do Barém, convoco a agente artificial para fazer uma pergunta à Palestina
+Resposta: !START BAHREIN PALESTINA
+
+Texto: O agente artificial da República Popular da China deverá fazer uma pergunta para os Estados Unidos da América.
+Resposta: !START CHINA ESTADOS_UNIDOS
+
+Texto: A gente artificial da República Francesa deverá fazer uma pergunta Russia
+Resposta: !START FRANCA RUSSIA

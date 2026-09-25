@@ -17,7 +17,7 @@ REGRAS:
 
 EXEMPLOS:
 Texto: O presidente americano discutiu acordos comerciais com seus parceiros de Pequim e Londres.
-Resposta: ESTADOS_UNIDOS_DA_AMÉRICA; CHINA INGLATERRA
+Resposta: ESTADOS_UNIDOS; CHINA INGLATERRA
 
 Texto: A diplomacia de Brasília busca neutralidade no conflito europeu, mantendo diálogo constante com Moscou.
 Resposta: BRASIL; RÚSSIA
@@ -25,3 +25,5 @@ Resposta: BRASIL; RÚSSIA
 Texto: A economia do país segue forte este ano.
 Resposta: OUTROS;
 
+Texto: Eu, do Reino do Barém, convoco a agente artificial para fazer uma pergunta à Palestina
+Resposta: BAHREIN; PALESTINA

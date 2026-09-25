@@ -5,9 +5,13 @@ encerro minha fala
 esta é a minha fala
 esta é minha fala
 agente artificial
+a gente artificial
 termino minha fala
 encerro meu discurso
 encerro aqui meu discurso
+encerro aqui o meu discurso
+encerro aqui discurso
+encerro o meu discurso
 finalizo aqui meu discurso
 finalizo minha fala
 finalizo a minha fala
@@ -35,3 +39,4 @@ finalizo aqui minha fala
 finalizo aqui fala
 finalizo aqui a fala
 finalizo aqui esta fala
+
